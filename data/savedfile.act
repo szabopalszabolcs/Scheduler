@@ -1,0 +1,9330 @@
+[
+  {
+    "idActivity": 0,
+    "subject": "Introducere în sociologie",
+    "codeSubject": "IntS01",
+    "professorId": 0,
+    "type": 1,
+    "groupsId": [
+      0,
+      1,
+      2
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 1,
+    "subject": "Informatică aplicată în științele sociale",
+    "codeSubject": "Info01",
+    "professorId": 1,
+    "type": 1,
+    "groupsId": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      36,
+      37,
+      38,
+      39
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 2,
+    "subject": "Informatică aplicată în științele sociale",
+    "codeSubject": "Info01",
+    "professorId": 2,
+    "type": 3,
+    "groupsId": [
+      0
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 3,
+    "subject": "Informatică aplicată în științele sociale",
+    "codeSubject": "Info01",
+    "professorId": 2,
+    "type": 3,
+    "groupsId": [
+      1
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 4,
+    "subject": "Informatică aplicată în științele sociale",
+    "codeSubject": "Info01",
+    "professorId": 2,
+    "type": 3,
+    "groupsId": [
+      2
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 5,
+    "subject": "Informatică aplicată în științele sociale",
+    "codeSubject": "Info01",
+    "professorId": 2,
+    "type": 3,
+    "groupsId": [
+      3
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 6,
+    "subject": "Informatică aplicată în științele sociale",
+    "codeSubject": "Info01",
+    "professorId": 2,
+    "type": 3,
+    "groupsId": [
+      4
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 7,
+    "subject": "Informatică aplicată în științele sociale",
+    "codeSubject": "Info01",
+    "professorId": 2,
+    "type": 3,
+    "groupsId": [
+      5
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 8,
+    "subject": "Abilități academice și de comunicare",
+    "codeSubject": "ACC01",
+    "professorId": 3,
+    "type": 1,
+    "groupsId": [
+      0,
+      1,
+      2
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 9,
+    "subject": "Abilități academice și de comunicare",
+    "codeSubject": "ACC01",
+    "professorId": 3,
+    "type": 2,
+    "groupsId": [
+      0
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 10,
+    "subject": "Abilități academice și de comunicare",
+    "codeSubject": "ACC01",
+    "professorId": 3,
+    "type": 2,
+    "groupsId": [
+      1
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 11,
+    "subject": "Abilități academice și de comunicare",
+    "codeSubject": "ACC01",
+    "professorId": 3,
+    "type": 2,
+    "groupsId": [
+      2
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 12,
+    "subject": "Introducere în filosofie",
+    "codeSubject": "IntrFil01",
+    "professorId": 3,
+    "type": 1,
+    "groupsId": [
+      0,
+      1,
+      2
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 13,
+    "subject": "Introducere în filosofie",
+    "codeSubject": "IntrFil01",
+    "professorId": 4,
+    "type": 2,
+    "groupsId": [
+      0
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 14,
+    "subject": "Introducere în filosofie",
+    "codeSubject": "IntrFil01",
+    "professorId": 4,
+    "type": 2,
+    "groupsId": [
+      1
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 15,
+    "subject": "Introducere în filosofie",
+    "codeSubject": "IntrFil01",
+    "professorId": 4,
+    "type": 2,
+    "groupsId": [
+      2
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 16,
+    "subject": "Joburi și cariere cu profesia de sociolog",
+    "codeSubject": "JC01",
+    "professorId": 5,
+    "type": 1,
+    "groupsId": [
+      0,
+      1,
+      2
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 17,
+    "subject": "Joburi și cariere cu profesia de sociolog",
+    "codeSubject": "JC01",
+    "professorId": 5,
+    "type": 2,
+    "groupsId": [
+      0
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 18,
+    "subject": "Joburi și cariere cu profesia de sociolog",
+    "codeSubject": "JC01",
+    "professorId": 5,
+    "type": 2,
+    "groupsId": [
+      1
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 19,
+    "subject": "Joburi și cariere cu profesia de sociolog",
+    "codeSubject": "JC01",
+    "professorId": 5,
+    "type": 2,
+    "groupsId": [
+      2
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 20,
+    "subject": "Logica",
+    "codeSubject": "LOG01",
+    "professorId": 6,
+    "type": 1,
+    "groupsId": [
+      0,
+      1,
+      2,
+      36,
+      37
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 21,
+    "subject": "Logica",
+    "codeSubject": "LOG01",
+    "professorId": 6,
+    "type": 2,
+    "groupsId": [
+      0
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 22,
+    "subject": "Logica",
+    "codeSubject": "LOG01",
+    "professorId": 6,
+    "type": 2,
+    "groupsId": [
+      1
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 23,
+    "subject": "Logica",
+    "codeSubject": "LOG01",
+    "professorId": 6,
+    "type": 2,
+    "groupsId": [
+      2
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 24,
+    "subject": "Scriere academică",
+    "codeSubject": "SAcad01",
+    "professorId": 4,
+    "type": 1,
+    "groupsId": [
+      0,
+      1,
+      2
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 25,
+    "subject": "Scriere academică",
+    "codeSubject": "SAcad01",
+    "professorId": 4,
+    "type": 2,
+    "groupsId": [
+      0
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 26,
+    "subject": "Scriere academică",
+    "codeSubject": "SAcad01",
+    "professorId": 4,
+    "type": 2,
+    "groupsId": [
+      1
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 27,
+    "subject": "Scriere academică",
+    "codeSubject": "SAcad01",
+    "professorId": 4,
+    "type": 2,
+    "groupsId": [
+      2
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 28,
+    "subject": "Sociologie juridică",
+    "codeSubject": "SoJurd02",
+    "professorId": 7,
+    "type": 1,
+    "groupsId": [
+      0,
+      1,
+      2
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 29,
+    "subject": "Sociologie juridică",
+    "codeSubject": "SoJurd02",
+    "professorId": 7,
+    "type": 2,
+    "groupsId": [
+      0
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 30,
+    "subject": "Sociologie juridică",
+    "codeSubject": "SoJurd02",
+    "professorId": 7,
+    "type": 2,
+    "groupsId": [
+      1
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 31,
+    "subject": "Sociologie juridică",
+    "codeSubject": "SoJurd02",
+    "professorId": 7,
+    "type": 2,
+    "groupsId": [
+      2
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 32,
+    "subject": "Demografie  socială",
+    "codeSubject": "DemSo03",
+    "professorId": 8,
+    "type": 1,
+    "groupsId": [
+      0,
+      1,
+      2
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 33,
+    "subject": "Demografie  socială",
+    "codeSubject": "DemSo03",
+    "professorId": 9,
+    "type": 3,
+    "groupsId": [
+      0
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 34,
+    "subject": "Demografie  socială",
+    "codeSubject": "DemSo03",
+    "professorId": 9,
+    "type": 3,
+    "groupsId": [
+      1
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 35,
+    "subject": "Demografie  socială",
+    "codeSubject": "DemSo03",
+    "professorId": 9,
+    "type": 3,
+    "groupsId": [
+      2
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 36,
+    "subject": "Epistemologie",
+    "codeSubject": "Epist02",
+    "professorId": 6,
+    "type": 1,
+    "groupsId": [
+      0,
+      1,
+      2,
+      36,
+      37
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 37,
+    "subject": "Epistemologie",
+    "codeSubject": "Epist02",
+    "professorId": 6,
+    "type": 2,
+    "groupsId": [
+      0
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 38,
+    "subject": "Epistemologie",
+    "codeSubject": "Epist02",
+    "professorId": 6,
+    "type": 2,
+    "groupsId": [
+      1
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 39,
+    "subject": "Epistemologie",
+    "codeSubject": "Epist02",
+    "professorId": 6,
+    "type": 2,
+    "groupsId": [
+      2
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 40,
+    "subject": "Psihologie socială",
+    "codeSubject": "PsihS02",
+    "professorId": 10,
+    "type": 1,
+    "groupsId": [
+      0,
+      1,
+      2,
+      36,
+      37
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 41,
+    "subject": "Psihologie socială",
+    "codeSubject": "PsihS02",
+    "professorId": 11,
+    "type": 2,
+    "groupsId": [
+      0
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 42,
+    "subject": "Psihologie socială",
+    "codeSubject": "PsihS02",
+    "professorId": 11,
+    "type": 2,
+    "groupsId": [
+      1
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 43,
+    "subject": "Psihologie socială",
+    "codeSubject": "PsihS02",
+    "professorId": 11,
+    "type": 2,
+    "groupsId": [
+      2
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 44,
+    "subject": "Antropologie socială",
+    "codeSubject": "Antr02",
+    "professorId": 12,
+    "type": 1,
+    "groupsId": [
+      0,
+      1,
+      2
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 45,
+    "subject": "Antropologie socială",
+    "codeSubject": "Antr02",
+    "professorId": 12,
+    "type": 2,
+    "groupsId": [
+      0
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 46,
+    "subject": "Antropologie socială",
+    "codeSubject": "Antr02",
+    "professorId": 12,
+    "type": 2,
+    "groupsId": [
+      1
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 47,
+    "subject": "Antropologie socială",
+    "codeSubject": "Antr02",
+    "professorId": 12,
+    "type": 2,
+    "groupsId": [
+      2
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 48,
+    "subject": "Sociologie generală",
+    "codeSubject": "SoGen02",
+    "professorId": 0,
+    "type": 1,
+    "groupsId": [
+      0,
+      1,
+      2,
+      36,
+      37
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 49,
+    "subject": "Sociologie generală",
+    "codeSubject": "SoGen02",
+    "professorId": 0,
+    "type": 2,
+    "groupsId": [
+      0
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 50,
+    "subject": "Sociologie generală",
+    "codeSubject": "SoGen02",
+    "professorId": 0,
+    "type": 2,
+    "groupsId": [
+      1
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 51,
+    "subject": "Sociologie generală",
+    "codeSubject": "SoGen02",
+    "professorId": 0,
+    "type": 2,
+    "groupsId": [
+      2
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 52,
+    "subject": "Istoria sociologiei",
+    "codeSubject": "Ist.So03",
+    "professorId": 0,
+    "type": 1,
+    "groupsId": [
+      6,
+      7
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 53,
+    "subject": "Istoria sociologiei",
+    "codeSubject": "Ist.So03",
+    "professorId": 13,
+    "type": 2,
+    "groupsId": [
+      6
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 54,
+    "subject": "Istoria sociologiei",
+    "codeSubject": "Ist.So03",
+    "professorId": 13,
+    "type": 2,
+    "groupsId": [
+      7
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 55,
+    "subject": "Metode și tehnici de cercetare sociologică I",
+    "codeSubject": "MTCS03",
+    "professorId": 14,
+    "type": 2,
+    "groupsId": [
+      6
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 56,
+    "subject": "Metode și tehnici de cercetare sociologică I",
+    "codeSubject": "MTCS03",
+    "professorId": 14,
+    "type": 2,
+    "groupsId": [
+      7
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 57,
+    "subject": "Metode și tehnici de cercetare sociologică I",
+    "codeSubject": "MTCS03",
+    "professorId": 5,
+    "type": 1,
+    "groupsId": [
+      6,
+      7,
+      40,
+      41
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 58,
+    "subject": "Introducere în statistică socială",
+    "codeSubject": "Stat03",
+    "professorId": 8,
+    "type": 1,
+    "groupsId": [
+      6,
+      7,
+      8,
+      9,
+      18,
+      19,
+      20,
+      21,
+      40,
+      41,
+      42,
+      43
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 59,
+    "subject": "Introducere în statistică socială",
+    "codeSubject": "Stat03",
+    "professorId": 13,
+    "type": 3,
+    "groupsId": [
+      6
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 60,
+    "subject": "Introducere în statistică socială",
+    "codeSubject": "Stat03",
+    "professorId": 13,
+    "type": 3,
+    "groupsId": [
+      7
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 61,
+    "subject": "Introducere în statistică socială",
+    "codeSubject": "Stat03",
+    "professorId": 13,
+    "type": 3,
+    "groupsId": [
+      8
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 62,
+    "subject": "Introducere în statistică socială",
+    "codeSubject": "Stat03",
+    "professorId": 13,
+    "type": 3,
+    "groupsId": [
+      9
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 63,
+    "subject": "Sociologia dezvoltării comunitare",
+    "codeSubject": "SoCom04",
+    "professorId": 15,
+    "type": 1,
+    "groupsId": [
+      6,
+      7
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 64,
+    "subject": "Sociologia dezvoltării comunitare",
+    "codeSubject": "SoCom04",
+    "professorId": 15,
+    "type": 2,
+    "groupsId": [
+      6
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 65,
+    "subject": "Sociologia dezvoltării comunitare",
+    "codeSubject": "SoCom04",
+    "professorId": 15,
+    "type": 2,
+    "groupsId": [
+      7
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 66,
+    "subject": "Metode şi tehnici de cercetare sociologică II",
+    "codeSubject": "MTCS04",
+    "professorId": 5,
+    "type": 1,
+    "groupsId": [
+      6,
+      7,
+      40,
+      41
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 67,
+    "subject": "Metode şi tehnici de cercetare sociologică II",
+    "codeSubject": "MTCS04",
+    "professorId": 14,
+    "type": 2,
+    "groupsId": [
+      6
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 68,
+    "subject": "Metode şi tehnici de cercetare sociologică II",
+    "codeSubject": "MTCS04",
+    "professorId": 14,
+    "type": 2,
+    "groupsId": [
+      7
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 69,
+    "subject": "Sociologie politică",
+    "codeSubject": "SocPol04",
+    "professorId": 7,
+    "type": 1,
+    "groupsId": [
+      6,
+      7
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 70,
+    "subject": "Sociologie politică",
+    "codeSubject": "SocPol04",
+    "professorId": 7,
+    "type": 2,
+    "groupsId": [
+      6
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 71,
+    "subject": "Sociologie politică",
+    "codeSubject": "SocPol04",
+    "professorId": 7,
+    "type": 2,
+    "groupsId": [
+      7
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 72,
+    "subject": "Paradigme ale sociologiei",
+    "codeSubject": "ParadSo04",
+    "professorId": 0,
+    "type": 1,
+    "groupsId": [
+      6,
+      7,
+      40,
+      41
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 73,
+    "subject": "Paradigme ale sociologiei",
+    "codeSubject": "ParadSo04",
+    "professorId": 0,
+    "type": 2,
+    "groupsId": [
+      6
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 74,
+    "subject": "Paradigme ale sociologiei",
+    "codeSubject": "ParadSo04",
+    "professorId": 0,
+    "type": 2,
+    "groupsId": [
+      7
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 75,
+    "subject": "Justiție și coeziune socială",
+    "codeSubject": "Coez04",
+    "professorId": 16,
+    "type": 1,
+    "groupsId": [
+      6,
+      7
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 76,
+    "subject": "Justiție și coeziune socială",
+    "codeSubject": "Coez04",
+    "professorId": 16,
+    "type": 2,
+    "groupsId": [
+      6
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 77,
+    "subject": "Justiție și coeziune socială",
+    "codeSubject": "Coez04",
+    "professorId": 16,
+    "type": 2,
+    "groupsId": [
+      7
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 78,
+    "subject": "Sociologie urbană",
+    "codeSubject": "SoUrb03",
+    "professorId": 6,
+    "type": 1,
+    "groupsId": [
+      6,
+      7
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 79,
+    "subject": "Sociologie urbană",
+    "codeSubject": "SoUrb03",
+    "professorId": 6,
+    "type": 2,
+    "groupsId": [
+      6
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 80,
+    "subject": "Sociologie urbană",
+    "codeSubject": "SoUrb03",
+    "professorId": 6,
+    "type": 2,
+    "groupsId": [
+      7
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 81,
+    "subject": "Sociologia conflictelor",
+    "codeSubject": "SoConf03",
+    "professorId": 7,
+    "type": 1,
+    "groupsId": [
+      6,
+      7
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 82,
+    "subject": "Sociologia conflictelor",
+    "codeSubject": "SoConf03",
+    "professorId": 7,
+    "type": 2,
+    "groupsId": [
+      6
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 83,
+    "subject": "Sociologia conflictelor",
+    "codeSubject": "SoConf03",
+    "professorId": 7,
+    "type": 2,
+    "groupsId": [
+      7
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 84,
+    "subject": "Sociologia cunoașterii",
+    "codeSubject": "SoCun04",
+    "professorId": 6,
+    "type": 1,
+    "groupsId": [
+      6,
+      7
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 85,
+    "subject": "Sociologia cunoașterii",
+    "codeSubject": "SoCun04",
+    "professorId": 6,
+    "type": 2,
+    "groupsId": [
+      6
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 86,
+    "subject": "Sociologia cunoașterii",
+    "codeSubject": "SoCun04",
+    "professorId": 6,
+    "type": 2,
+    "groupsId": [
+      7
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 87,
+    "subject": "Sociologia muncii",
+    "codeSubject": "SoMun04",
+    "professorId": 13,
+    "type": 1,
+    "groupsId": [
+      6,
+      7
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 88,
+    "subject": "Sociologia muncii",
+    "codeSubject": "SoMun04",
+    "professorId": 13,
+    "type": 2,
+    "groupsId": [
+      6
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 89,
+    "subject": "Sociologia muncii",
+    "codeSubject": "SoMun04",
+    "professorId": 13,
+    "type": 2,
+    "groupsId": [
+      7
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 90,
+    "subject": "Sociologia organizaţiilor",
+    "codeSubject": "SoOrg05",
+    "professorId": 0,
+    "type": 1,
+    "groupsId": [
+      10
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 91,
+    "subject": "Sociologia organizaţiilor",
+    "codeSubject": "SoOrg05",
+    "professorId": 17,
+    "type": 2,
+    "groupsId": [
+      10
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 92,
+    "subject": "Sociologia familiei",
+    "codeSubject": "SoFam05",
+    "professorId": 18,
+    "type": 1,
+    "groupsId": [
+      10
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 93,
+    "subject": "Sociologia familiei",
+    "codeSubject": "SoFam05",
+    "professorId": 19,
+    "type": 2,
+    "groupsId": [
+      10
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 94,
+    "subject": "Managementul resursei umane",
+    "codeSubject": "MRU05",
+    "professorId": 14,
+    "type": 1,
+    "groupsId": [
+      10
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 95,
+    "subject": "Managementul resursei umane",
+    "codeSubject": "MRU05",
+    "professorId": 17,
+    "type": 2,
+    "groupsId": [
+      10
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 96,
+    "subject": "Sociologia identităţii",
+    "codeSubject": "SoIden05",
+    "professorId": 11,
+    "type": 1,
+    "groupsId": [
+      10
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 97,
+    "subject": "Sociologia identităţii",
+    "codeSubject": "SoIden05",
+    "professorId": 11,
+    "type": 2,
+    "groupsId": [
+      10
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 98,
+    "subject": "Tehnici calitative de cercetare socială",
+    "codeSubject": "TehCal05",
+    "professorId": 20,
+    "type": 2,
+    "groupsId": [
+      10
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 99,
+    "subject": "Tehnici calitative de cercetare socială",
+    "codeSubject": "TehCal05",
+    "professorId": 21,
+    "type": 1,
+    "groupsId": [
+      10
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 100,
+    "subject": "Sociologia religiei",
+    "codeSubject": "SoRel06",
+    "professorId": 6,
+    "type": 1,
+    "groupsId": [
+      10
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 101,
+    "subject": "Sociologia religiei",
+    "codeSubject": "SoRel06",
+    "professorId": 6,
+    "type": 2,
+    "groupsId": [
+      10
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 102,
+    "subject": "Sociologia educației",
+    "codeSubject": "SoEdu06",
+    "professorId": 11,
+    "type": 2,
+    "groupsId": [
+      10
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 103,
+    "subject": "Sociologia educației",
+    "codeSubject": "SoEdu06",
+    "professorId": 10,
+    "type": 1,
+    "groupsId": [
+      10
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 104,
+    "subject": "Analiză statistico-socială multivariată",
+    "codeSubject": "Stat06",
+    "professorId": 8,
+    "type": 1,
+    "groupsId": [
+      10,
+      11,
+      44,
+      45
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 105,
+    "subject": "Analiză statistico-socială multivariată",
+    "codeSubject": "Stat06",
+    "professorId": 22,
+    "type": 3,
+    "groupsId": [
+      10
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 106,
+    "subject": "Analiză statistico-socială multivariată",
+    "codeSubject": "Stat06",
+    "professorId": 22,
+    "type": 3,
+    "groupsId": [
+      11
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 107,
+    "subject": "Sociologie comparată, a stilului de viață şi calitatea vieții",
+    "codeSubject": "SoCal06",
+    "professorId": 23,
+    "type": 1,
+    "groupsId": [
+      10
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 108,
+    "subject": "Sociologie comparată, a stilului de viață şi calitatea vieții",
+    "codeSubject": "SoCal06",
+    "professorId": 23,
+    "type": 2,
+    "groupsId": [
+      10
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 109,
+    "subject": "Sociologia business-ului şi a activității economice",
+    "codeSubject": "SoBuss05.",
+    "professorId": 23,
+    "type": 1,
+    "groupsId": [
+      10
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 110,
+    "subject": "Sociologia business-ului şi a activității economice",
+    "codeSubject": "SoBuss05.",
+    "professorId": 23,
+    "type": 2,
+    "groupsId": [
+      10
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 111,
+    "subject": "Sociologia spaţiului virtual",
+    "codeSubject": "SoVir05",
+    "professorId": 1,
+    "type": 1,
+    "groupsId": [
+      10
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 112,
+    "subject": "Sociologia spaţiului virtual",
+    "codeSubject": "SoVir05",
+    "professorId": 24,
+    "type": 2,
+    "groupsId": [
+      10
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 113,
+    "subject": "Sociologia relatiilor interetnice",
+    "codeSubject": "SoRelIn06",
+    "professorId": 15,
+    "type": 1,
+    "groupsId": [
+      10
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 114,
+    "subject": "Sociologia relatiilor interetnice",
+    "codeSubject": "SoRelIn06",
+    "professorId": 15,
+    "type": 2,
+    "groupsId": [
+      10
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 115,
+    "subject": "Tehnici creative şi dezvoltarea creativității",
+    "codeSubject": "Creat06",
+    "professorId": 5,
+    "type": 1,
+    "groupsId": [
+      10
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 116,
+    "subject": "Tehnici creative şi dezvoltarea creativității",
+    "codeSubject": "Creat06",
+    "professorId": 5,
+    "type": 2,
+    "groupsId": [
+      10
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 117,
+    "subject": "Introducere în psihologie",
+    "codeSubject": "Inpsh01",
+    "professorId": 10,
+    "type": 1,
+    "groupsId": [
+      12,
+      13,
+      14
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 118,
+    "subject": "Introducere în psihologie",
+    "codeSubject": "Inpsh01",
+    "professorId": 11,
+    "type": 2,
+    "groupsId": [
+      12
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 119,
+    "subject": "Introducere în psihologie",
+    "codeSubject": "Inpsh01",
+    "professorId": 11,
+    "type": 2,
+    "groupsId": [
+      13
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 120,
+    "subject": "Introducere în psihologie",
+    "codeSubject": "Inpsh01",
+    "professorId": 11,
+    "type": 2,
+    "groupsId": [
+      14
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 121,
+    "subject": "Informatică aplicată în ştiinţele sociale",
+    "codeSubject": "Inf01",
+    "professorId": 2,
+    "type": 3,
+    "groupsId": [
+      12
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 122,
+    "subject": "Informatică aplicată în ştiinţele sociale",
+    "codeSubject": "Inf01",
+    "professorId": 2,
+    "type": 3,
+    "groupsId": [
+      13
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 123,
+    "subject": "Informatică aplicată în ştiinţele sociale",
+    "codeSubject": "Inf01",
+    "professorId": 2,
+    "type": 3,
+    "groupsId": [
+      14
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 124,
+    "subject": "Informatică aplicată în ştiinţele sociale",
+    "codeSubject": "Inf01",
+    "professorId": 2,
+    "type": 3,
+    "groupsId": [
+      15
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 125,
+    "subject": "Informatică aplicată în ştiinţele sociale",
+    "codeSubject": "Inf01",
+    "professorId": 2,
+    "type": 3,
+    "groupsId": [
+      16
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 126,
+    "subject": "Informatică aplicată în ştiinţele sociale",
+    "codeSubject": "Inf01",
+    "professorId": 2,
+    "type": 3,
+    "groupsId": [
+      17
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 127,
+    "subject": "Fundamentele asistenţei sociale",
+    "codeSubject": "Fas01",
+    "professorId": 18,
+    "type": 1,
+    "groupsId": [
+      12,
+      13,
+      14
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 128,
+    "subject": "Fundamentele asistenţei sociale",
+    "codeSubject": "Fas01",
+    "professorId": 19,
+    "type": 2,
+    "groupsId": [
+      12
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 129,
+    "subject": "Fundamentele asistenţei sociale",
+    "codeSubject": "Fas01",
+    "professorId": 19,
+    "type": 2,
+    "groupsId": [
+      13
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 130,
+    "subject": "Fundamentele asistenţei sociale",
+    "codeSubject": "Fas01",
+    "professorId": 19,
+    "type": 2,
+    "groupsId": [
+      14
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 131,
+    "subject": "Drept în asistenţa socială",
+    "codeSubject": "Dias01",
+    "professorId": 7,
+    "type": 1,
+    "groupsId": [
+      12,
+      13,
+      14
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 132,
+    "subject": "Drept în asistenţa socială",
+    "codeSubject": "Dias01",
+    "professorId": 7,
+    "type": 2,
+    "groupsId": [
+      12
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 133,
+    "subject": "Drept în asistenţa socială",
+    "codeSubject": "Dias01",
+    "professorId": 7,
+    "type": 2,
+    "groupsId": [
+      13
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 134,
+    "subject": "Drept în asistenţa socială",
+    "codeSubject": "Dias01",
+    "professorId": 7,
+    "type": 2,
+    "groupsId": [
+      14
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 135,
+    "subject": "Introducere în sociologie",
+    "codeSubject": "Inso01",
+    "professorId": 0,
+    "type": 1,
+    "groupsId": [
+      12,
+      13,
+      14
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 136,
+    "subject": "Introducere în sociologie",
+    "codeSubject": "Inso01",
+    "professorId": 25,
+    "type": 2,
+    "groupsId": [
+      12
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 137,
+    "subject": "Introducere în sociologie",
+    "codeSubject": "Inso01",
+    "professorId": 25,
+    "type": 2,
+    "groupsId": [
+      13
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 138,
+    "subject": "Introducere în sociologie",
+    "codeSubject": "Inso01",
+    "professorId": 25,
+    "type": 2,
+    "groupsId": [
+      14
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 139,
+    "subject": "Dezvoltare umană",
+    "codeSubject": "Dezvu01",
+    "professorId": 10,
+    "type": 1,
+    "groupsId": [
+      12,
+      13,
+      14
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 140,
+    "subject": "Dezvoltare umană",
+    "codeSubject": "Dezvu01",
+    "professorId": 11,
+    "type": 2,
+    "groupsId": [
+      12
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 141,
+    "subject": "Dezvoltare umană",
+    "codeSubject": "Dezvu01",
+    "professorId": 11,
+    "type": 2,
+    "groupsId": [
+      13
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 142,
+    "subject": "Dezvoltare umană",
+    "codeSubject": "Dezvu01",
+    "professorId": 11,
+    "type": 2,
+    "groupsId": [
+      14
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 143,
+    "subject": "Scriere academică",
+    "codeSubject": "SAcad01",
+    "professorId": 12,
+    "type": 1,
+    "groupsId": [
+      12,
+      13,
+      14
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 144,
+    "subject": "Scriere academică",
+    "codeSubject": "SAcad01",
+    "professorId": 12,
+    "type": 2,
+    "groupsId": [
+      12
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 145,
+    "subject": "Scriere academică",
+    "codeSubject": "SAcad01",
+    "professorId": 12,
+    "type": 2,
+    "groupsId": [
+      13
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 146,
+    "subject": "Scriere academică",
+    "codeSubject": "SAcad01",
+    "professorId": 12,
+    "type": 2,
+    "groupsId": [
+      14
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 147,
+    "subject": "Demografie socială",
+    "codeSubject": "DemSo02",
+    "professorId": 9,
+    "type": 3,
+    "groupsId": [
+      12
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 148,
+    "subject": "Demografie socială",
+    "codeSubject": "DemSo02",
+    "professorId": 9,
+    "type": 3,
+    "groupsId": [
+      13
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 149,
+    "subject": "Demografie socială",
+    "codeSubject": "DemSo02",
+    "professorId": 9,
+    "type": 3,
+    "groupsId": [
+      14
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 150,
+    "subject": "Metode şi tehnici de cercetare socială I",
+    "codeSubject": "Mtcs02",
+    "professorId": 21,
+    "type": 1,
+    "groupsId": [
+      12,
+      13,
+      14
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 151,
+    "subject": "Metode şi tehnici de cercetare socială I",
+    "codeSubject": "Mtcs02",
+    "professorId": 9,
+    "type": 2,
+    "groupsId": [
+      12
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 152,
+    "subject": "Metode şi tehnici de cercetare socială I",
+    "codeSubject": "Mtcs02",
+    "professorId": 9,
+    "type": 2,
+    "groupsId": [
+      13
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 153,
+    "subject": "Metode şi tehnici de cercetare socială I",
+    "codeSubject": "Mtcs02",
+    "professorId": 9,
+    "type": 2,
+    "groupsId": [
+      14
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 154,
+    "subject": "Psihologie socială",
+    "codeSubject": "Psihs02",
+    "professorId": 11,
+    "type": 2,
+    "groupsId": [
+      12
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 155,
+    "subject": "Psihologie socială",
+    "codeSubject": "Psihs02",
+    "professorId": 11,
+    "type": 2,
+    "groupsId": [
+      13
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 156,
+    "subject": "Psihologie socială",
+    "codeSubject": "Psihs02",
+    "professorId": 11,
+    "type": 2,
+    "groupsId": [
+      14
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 157,
+    "subject": "Teorii şi metode în asistenţa socială",
+    "codeSubject": "Tmas02",
+    "professorId": 26,
+    "type": 1,
+    "groupsId": [
+      12,
+      13,
+      14
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 158,
+    "subject": "Teorii şi metode în asistenţa socială",
+    "codeSubject": "Tmas02",
+    "professorId": 26,
+    "type": 2,
+    "groupsId": [
+      12
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 159,
+    "subject": "Teorii şi metode în asistenţa socială",
+    "codeSubject": "Tmas02",
+    "professorId": 26,
+    "type": 2,
+    "groupsId": [
+      13
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 160,
+    "subject": "Teorii şi metode în asistenţa socială",
+    "codeSubject": "Tmas02",
+    "professorId": 26,
+    "type": 2,
+    "groupsId": [
+      14
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 161,
+    "subject": "Sociologia familiei",
+    "codeSubject": "Sfam02",
+    "professorId": 18,
+    "type": 1,
+    "groupsId": [
+      12,
+      13,
+      14
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 162,
+    "subject": "Sociologia familiei",
+    "codeSubject": "Sfam02",
+    "professorId": 19,
+    "type": 2,
+    "groupsId": [
+      12
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 163,
+    "subject": "Sociologia familiei",
+    "codeSubject": "Sfam02",
+    "professorId": 19,
+    "type": 2,
+    "groupsId": [
+      13
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 164,
+    "subject": "Sociologia familiei",
+    "codeSubject": "Sfam02",
+    "professorId": 19,
+    "type": 2,
+    "groupsId": [
+      14
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 165,
+    "subject": "Gândire critică",
+    "codeSubject": "Gancr02",
+    "professorId": 12,
+    "type": 1,
+    "groupsId": [
+      12,
+      13,
+      14
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 166,
+    "subject": "Gândire critică",
+    "codeSubject": "Gancr02",
+    "professorId": 12,
+    "type": 2,
+    "groupsId": [
+      12
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 167,
+    "subject": "Gândire critică",
+    "codeSubject": "Gancr02",
+    "professorId": 12,
+    "type": 2,
+    "groupsId": [
+      13
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 168,
+    "subject": "Gândire critică",
+    "codeSubject": "Gancr02",
+    "professorId": 12,
+    "type": 2,
+    "groupsId": [
+      14
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 169,
+    "subject": "Sistemul de asistenţă socială",
+    "codeSubject": "Sistas03",
+    "professorId": 27,
+    "type": 1,
+    "groupsId": [
+      18,
+      19
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 170,
+    "subject": "Sistemul de asistenţă socială",
+    "codeSubject": "Sistas03",
+    "professorId": 27,
+    "type": 2,
+    "groupsId": [
+      18
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 171,
+    "subject": "Sistemul de asistenţă socială",
+    "codeSubject": "Sistas03",
+    "professorId": 27,
+    "type": 2,
+    "groupsId": [
+      19
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 172,
+    "subject": "Metode şi tehnici de cercetare în ştiinţele sociale",
+    "codeSubject": "Mtcs03",
+    "professorId": 21,
+    "type": 1,
+    "groupsId": [
+      18,
+      19
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 173,
+    "subject": "Metode şi tehnici de cercetare în ştiinţele sociale",
+    "codeSubject": "Mtcs03",
+    "professorId": 9,
+    "type": 4,
+    "groupsId": [
+      18
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 174,
+    "subject": "Metode şi tehnici de cercetare în ştiinţele sociale",
+    "codeSubject": "Mtcs03",
+    "professorId": 9,
+    "type": 4,
+    "groupsId": [
+      19
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 175,
+    "subject": "Introducere în statistică socială",
+    "codeSubject": "Stat03",
+    "professorId": 13,
+    "type": 3,
+    "groupsId": [
+      18
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 176,
+    "subject": "Introducere în statistică socială",
+    "codeSubject": "Stat03",
+    "professorId": 13,
+    "type": 3,
+    "groupsId": [
+      19
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 177,
+    "subject": "Introducere în statistică socială",
+    "codeSubject": "Stat03",
+    "professorId": 13,
+    "type": 3,
+    "groupsId": [
+      20
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 178,
+    "subject": "Introducere în statistică socială",
+    "codeSubject": "Stat03",
+    "professorId": 13,
+    "type": 3,
+    "groupsId": [
+      21
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 179,
+    "subject": "Tehnici de intervenţie în asistenţa socială",
+    "codeSubject": "Tehn04",
+    "professorId": 18,
+    "type": 1,
+    "groupsId": [
+      18,
+      19
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 180,
+    "subject": "Tehnici de intervenţie în asistenţa socială",
+    "codeSubject": "Tehn04",
+    "professorId": 18,
+    "type": 4,
+    "groupsId": [
+      18
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 181,
+    "subject": "Tehnici de intervenţie în asistenţa socială",
+    "codeSubject": "Tehn04",
+    "professorId": 18,
+    "type": 4,
+    "groupsId": [
+      19
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 182,
+    "subject": "Tehnici de intervenţie în asistenţa socială",
+    "codeSubject": "Tehn04",
+    "professorId": 19,
+    "type": 2,
+    "groupsId": [
+      18
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 183,
+    "subject": "Tehnici de intervenţie în asistenţa socială",
+    "codeSubject": "Tehn04",
+    "professorId": 19,
+    "type": 2,
+    "groupsId": [
+      19
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 184,
+    "subject": "Introducere în politici sociale",
+    "codeSubject": "Ipol04",
+    "professorId": 16,
+    "type": 1,
+    "groupsId": [
+      18,
+      19
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 185,
+    "subject": "Introducere în politici sociale",
+    "codeSubject": "Ipol04",
+    "professorId": 13,
+    "type": 2,
+    "groupsId": [
+      18
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 186,
+    "subject": "Introducere în politici sociale",
+    "codeSubject": "Ipol04",
+    "professorId": 13,
+    "type": 2,
+    "groupsId": [
+      19
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 187,
+    "subject": "Consiliere în asistenţa socială",
+    "codeSubject": "Consil04",
+    "professorId": 28,
+    "type": 1,
+    "groupsId": [
+      18,
+      19
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 188,
+    "subject": "Consiliere în asistenţa socială",
+    "codeSubject": "Consil04",
+    "professorId": 28,
+    "type": 2,
+    "groupsId": [
+      18
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 189,
+    "subject": "Consiliere în asistenţa socială",
+    "codeSubject": "Consil04",
+    "professorId": 28,
+    "type": 2,
+    "groupsId": [
+      19
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 190,
+    "subject": "Asistența persoanelor cu dizabilități",
+    "codeSubject": "Asdiz04",
+    "professorId": 29,
+    "type": 1,
+    "groupsId": [
+      18,
+      19
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 191,
+    "subject": "Asistența persoanelor cu dizabilități",
+    "codeSubject": "Asdiz04",
+    "professorId": 29,
+    "type": 2,
+    "groupsId": [
+      18
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 192,
+    "subject": "Asistența persoanelor cu dizabilități",
+    "codeSubject": "Asdiz04",
+    "professorId": 29,
+    "type": 2,
+    "groupsId": [
+      19
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 193,
+    "subject": "Probleme ale grupurilor cu risc de discriminare",
+    "codeSubject": "Pgrup03",
+    "professorId": 16,
+    "type": 1,
+    "groupsId": [
+      18,
+      19
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 194,
+    "subject": "Probleme ale grupurilor cu risc de discriminare",
+    "codeSubject": "Pgrup03",
+    "professorId": 13,
+    "type": 2,
+    "groupsId": [
+      18
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 195,
+    "subject": "Probleme ale grupurilor cu risc de discriminare",
+    "codeSubject": "Pgrup03",
+    "professorId": 13,
+    "type": 2,
+    "groupsId": [
+      19
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 196,
+    "subject": "Psihoterapie",
+    "codeSubject": "Psih03",
+    "professorId": 28,
+    "type": 1,
+    "groupsId": [
+      18,
+      19
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 197,
+    "subject": "Psihoterapie",
+    "codeSubject": "Psih03",
+    "professorId": 28,
+    "type": 2,
+    "groupsId": [
+      18
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 198,
+    "subject": "Psihoterapie",
+    "codeSubject": "Psih03",
+    "professorId": 28,
+    "type": 2,
+    "groupsId": [
+      19
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 199,
+    "subject": "Drepturile omului şi strategii antidiscriminatorii",
+    "codeSubject": "Drept04",
+    "professorId": 18,
+    "type": 1,
+    "groupsId": [
+      18,
+      19
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 200,
+    "subject": "Drepturile omului şi strategii antidiscriminatorii",
+    "codeSubject": "Drept04",
+    "professorId": 18,
+    "type": 2,
+    "groupsId": [
+      18
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 201,
+    "subject": "Drepturile omului şi strategii antidiscriminatorii",
+    "codeSubject": "Drept04",
+    "professorId": 18,
+    "type": 2,
+    "groupsId": [
+      19
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 202,
+    "subject": "Coaching și supervizare în asistența socială",
+    "codeSubject": "Coach03",
+    "professorId": 27,
+    "type": 1,
+    "groupsId": [
+      18,
+      19
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 203,
+    "subject": "Coaching și supervizare în asistența socială",
+    "codeSubject": "Coach03",
+    "professorId": 27,
+    "type": 2,
+    "groupsId": [
+      18
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 204,
+    "subject": "Coaching și supervizare în asistența socială",
+    "codeSubject": "Coach03",
+    "professorId": 27,
+    "type": 2,
+    "groupsId": [
+      19
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 205,
+    "subject": "Asistenţa socială a familiei şi a copilului",
+    "codeSubject": "Asfam05",
+    "professorId": 18,
+    "type": 1,
+    "groupsId": [
+      22,
+      23
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 206,
+    "subject": "Asistenţa socială a familiei şi a copilului",
+    "codeSubject": "Asfam05",
+    "professorId": 29,
+    "type": 2,
+    "groupsId": [
+      22
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 207,
+    "subject": "Asistenţa socială a familiei şi a copilului",
+    "codeSubject": "Asfam05",
+    "professorId": 29,
+    "type": 2,
+    "groupsId": [
+      23
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 208,
+    "subject": "Promovarea sănătăţii",
+    "codeSubject": "Prosa05",
+    "professorId": 8,
+    "type": 1,
+    "groupsId": [
+      22,
+      23
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 209,
+    "subject": "Promovarea sănătăţii",
+    "codeSubject": "Prosa05",
+    "professorId": 30,
+    "type": 2,
+    "groupsId": [
+      22
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 210,
+    "subject": "Promovarea sănătăţii",
+    "codeSubject": "Prosa05",
+    "professorId": 30,
+    "type": 2,
+    "groupsId": [
+      23
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 211,
+    "subject": "Dezvoltare comunitară",
+    "codeSubject": "Dezv04",
+    "professorId": 15,
+    "type": 1,
+    "groupsId": [
+      22,
+      23
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 212,
+    "subject": "Dezvoltare comunitară",
+    "codeSubject": "Dezv04",
+    "professorId": 15,
+    "type": 2,
+    "groupsId": [
+      22
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 213,
+    "subject": "Dezvoltare comunitară",
+    "codeSubject": "Dezv04",
+    "professorId": 15,
+    "type": 2,
+    "groupsId": [
+      23
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 214,
+    "subject": "Metodologia elaborării proiectelor",
+    "codeSubject": "Metpr05",
+    "professorId": 29,
+    "type": 2,
+    "groupsId": [
+      22
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 215,
+    "subject": "Metodologia elaborării proiectelor",
+    "codeSubject": "Metpr05",
+    "professorId": 29,
+    "type": 2,
+    "groupsId": [
+      23
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 216,
+    "subject": "Managementul  serviciilor de asistenţă socială",
+    "codeSubject": "Manag06",
+    "professorId": 27,
+    "type": 1,
+    "groupsId": [
+      22,
+      23
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 217,
+    "subject": "Managementul  serviciilor de asistenţă socială",
+    "codeSubject": "Manag06",
+    "professorId": 27,
+    "type": 4,
+    "groupsId": [
+      22
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 218,
+    "subject": "Managementul  serviciilor de asistenţă socială",
+    "codeSubject": "Manag06",
+    "professorId": 27,
+    "type": 4,
+    "groupsId": [
+      23
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 219,
+    "subject": "Etica şi deontologie profesională",
+    "codeSubject": "Etica06",
+    "professorId": 31,
+    "type": 1,
+    "groupsId": [
+      22,
+      23
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 220,
+    "subject": "Etica şi deontologie profesională",
+    "codeSubject": "Etica06",
+    "professorId": 31,
+    "type": 4,
+    "groupsId": [
+      22
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 221,
+    "subject": "Etica şi deontologie profesională",
+    "codeSubject": "Etica06",
+    "professorId": 31,
+    "type": 4,
+    "groupsId": [
+      23
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 222,
+    "subject": "Antropologie culturală aplicată",
+    "codeSubject": "Antrop06",
+    "professorId": 12,
+    "type": 1,
+    "groupsId": [
+      22,
+      23
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 223,
+    "subject": "Antropologie culturală aplicată",
+    "codeSubject": "Antrop06",
+    "professorId": 12,
+    "type": 2,
+    "groupsId": [
+      22
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 224,
+    "subject": "Antropologie culturală aplicată",
+    "codeSubject": "Antrop06",
+    "professorId": 12,
+    "type": 2,
+    "groupsId": [
+      23
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 225,
+    "subject": "Asistenţa socială a persoanelor fără adăpost",
+    "codeSubject": "Aadap05",
+    "professorId": 29,
+    "type": 1,
+    "groupsId": [
+      22,
+      23
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 226,
+    "subject": "Asistenţa socială a persoanelor fără adăpost",
+    "codeSubject": "Aadap05",
+    "professorId": 29,
+    "type": 2,
+    "groupsId": [
+      22
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 227,
+    "subject": "Asistenţa socială a persoanelor fără adăpost",
+    "codeSubject": "Aadap05",
+    "professorId": 29,
+    "type": 2,
+    "groupsId": [
+      23
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 228,
+    "subject": "Asistenţa persoanelor cu comportament deviant",
+    "codeSubject": "Cdev05",
+    "professorId": 32,
+    "type": 1,
+    "groupsId": [
+      22,
+      23
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 229,
+    "subject": "Asistenţa persoanelor cu comportament deviant",
+    "codeSubject": "Cdev05",
+    "professorId": 32,
+    "type": 2,
+    "groupsId": [
+      22
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 230,
+    "subject": "Asistenţa persoanelor cu comportament deviant",
+    "codeSubject": "Cdev05",
+    "professorId": 32,
+    "type": 2,
+    "groupsId": [
+      23
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 231,
+    "subject": "Politici de protecție şi securitate socială",
+    "codeSubject": "Polit06",
+    "professorId": 13,
+    "type": 2,
+    "groupsId": [
+      22
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 232,
+    "subject": "Politici de protecție şi securitate socială",
+    "codeSubject": "Polit06",
+    "professorId": 13,
+    "type": 2,
+    "groupsId": [
+      23
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 233,
+    "subject": "Politici de protecție şi securitate socială",
+    "codeSubject": "Polit06",
+    "professorId": 16,
+    "type": 1,
+    "groupsId": [
+      22,
+      23
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 234,
+    "subject": "Introducere în probaţiune",
+    "codeSubject": "Prob05",
+    "professorId": 32,
+    "type": 1,
+    "groupsId": [
+      22,
+      23
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 235,
+    "subject": "Introducere în probaţiune",
+    "codeSubject": "Prob05",
+    "professorId": 32,
+    "type": 2,
+    "groupsId": [
+      22
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 236,
+    "subject": "Introducere în probaţiune",
+    "codeSubject": "Prob05",
+    "professorId": 32,
+    "type": 2,
+    "groupsId": [
+      23
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 237,
+    "subject": "Fundamente ale comunicării",
+    "codeSubject": "FC01",
+    "professorId": 1,
+    "type": 1,
+    "groupsId": [
+      24,
+      25,
+      26,
+      46,
+      47
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 238,
+    "subject": "Fundamente ale comunicării",
+    "codeSubject": "FC01",
+    "professorId": 33,
+    "type": 2,
+    "groupsId": [
+      24
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 239,
+    "subject": "Fundamente ale comunicării",
+    "codeSubject": "FC01",
+    "professorId": 33,
+    "type": 2,
+    "groupsId": [
+      25
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 240,
+    "subject": "Fundamente ale comunicării",
+    "codeSubject": "FC01",
+    "professorId": 33,
+    "type": 2,
+    "groupsId": [
+      26
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 241,
+    "subject": "Introducere în filosofie",
+    "codeSubject": "IF01",
+    "professorId": 3,
+    "type": 1,
+    "groupsId": [
+      24,
+      25,
+      26
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 242,
+    "subject": "Introducere în filosofie",
+    "codeSubject": "IF01",
+    "professorId": 4,
+    "type": 2,
+    "groupsId": [
+      24
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 243,
+    "subject": "Introducere în filosofie",
+    "codeSubject": "IF01",
+    "professorId": 4,
+    "type": 2,
+    "groupsId": [
+      25
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 244,
+    "subject": "Introducere în filosofie",
+    "codeSubject": "IF01",
+    "professorId": 4,
+    "type": 2,
+    "groupsId": [
+      26
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 245,
+    "subject": "Logica",
+    "codeSubject": "LO01",
+    "professorId": 6,
+    "type": 1,
+    "groupsId": [
+      24,
+      25,
+      26
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 246,
+    "subject": "Logica",
+    "codeSubject": "LO01",
+    "professorId": 6,
+    "type": 2,
+    "groupsId": [
+      24
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 247,
+    "subject": "Logica",
+    "codeSubject": "LO01",
+    "professorId": 6,
+    "type": 2,
+    "groupsId": [
+      25
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 248,
+    "subject": "Logica",
+    "codeSubject": "LO01",
+    "professorId": 6,
+    "type": 2,
+    "groupsId": [
+      26
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 249,
+    "subject": "Informatică aplicată în ştiinţele comunicării",
+    "codeSubject": "INF01",
+    "professorId": 1,
+    "type": 1,
+    "groupsId": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 250,
+    "subject": "Informatică aplicată în ştiinţele comunicării",
+    "codeSubject": "INF01",
+    "professorId": 2,
+    "type": 3,
+    "groupsId": [
+      24
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 251,
+    "subject": "Informatică aplicată în ştiinţele comunicării",
+    "codeSubject": "INF01",
+    "professorId": 2,
+    "type": 3,
+    "groupsId": [
+      25
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 252,
+    "subject": "Informatică aplicată în ştiinţele comunicării",
+    "codeSubject": "INF01",
+    "professorId": 2,
+    "type": 3,
+    "groupsId": [
+      26
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 253,
+    "subject": "Informatică aplicată în ştiinţele comunicării",
+    "codeSubject": "INF01",
+    "professorId": 2,
+    "type": 3,
+    "groupsId": [
+      27
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 254,
+    "subject": "Informatică aplicată în ştiinţele comunicării",
+    "codeSubject": "INF01",
+    "professorId": 2,
+    "type": 3,
+    "groupsId": [
+      28
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 255,
+    "subject": "Informatică aplicată în ştiinţele comunicării",
+    "codeSubject": "INF01",
+    "professorId": 2,
+    "type": 3,
+    "groupsId": [
+      29
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 256,
+    "subject": "Introducere în sociologie",
+    "codeSubject": "IS01",
+    "professorId": 25,
+    "type": 2,
+    "groupsId": [
+      24
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 257,
+    "subject": "Introducere în sociologie",
+    "codeSubject": "IS01",
+    "professorId": 25,
+    "type": 2,
+    "groupsId": [
+      25
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 258,
+    "subject": "Introducere în sociologie",
+    "codeSubject": "IS01",
+    "professorId": 25,
+    "type": 2,
+    "groupsId": [
+      26
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 259,
+    "subject": "Scriere academică",
+    "codeSubject": "SA01",
+    "professorId": 12,
+    "type": 1,
+    "groupsId": [
+      24,
+      25,
+      26,
+      46,
+      47
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 260,
+    "subject": "Scriere academică",
+    "codeSubject": "SA01",
+    "professorId": 12,
+    "type": 2,
+    "groupsId": [
+      24
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 261,
+    "subject": "Scriere academică",
+    "codeSubject": "SA01",
+    "professorId": 12,
+    "type": 2,
+    "groupsId": [
+      25
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 262,
+    "subject": "Scriere academică",
+    "codeSubject": "SA01",
+    "professorId": 12,
+    "type": 2,
+    "groupsId": [
+      26
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 263,
+    "subject": "Etică",
+    "codeSubject": "ET01",
+    "professorId": 16,
+    "type": 1,
+    "groupsId": [
+      24,
+      25,
+      26
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 264,
+    "subject": "Etică",
+    "codeSubject": "ET01",
+    "professorId": 9,
+    "type": 2,
+    "groupsId": [
+      24
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 265,
+    "subject": "Etică",
+    "codeSubject": "ET01",
+    "professorId": 9,
+    "type": 2,
+    "groupsId": [
+      25
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 266,
+    "subject": "Etică",
+    "codeSubject": "ET01",
+    "professorId": 9,
+    "type": 2,
+    "groupsId": [
+      26
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 267,
+    "subject": "Marketing",
+    "codeSubject": "MKC04",
+    "professorId": 34,
+    "type": 1,
+    "groupsId": [
+      24,
+      25,
+      26
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 268,
+    "subject": "Marketing",
+    "codeSubject": "MKC04",
+    "professorId": 17,
+    "type": 2,
+    "groupsId": [
+      24
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 269,
+    "subject": "Marketing",
+    "codeSubject": "MKC04",
+    "professorId": 17,
+    "type": 2,
+    "groupsId": [
+      25
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 270,
+    "subject": "Marketing",
+    "codeSubject": "MKC04",
+    "professorId": 17,
+    "type": 2,
+    "groupsId": [
+      26
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 271,
+    "subject": "Comunicare verbală şi nonverbala",
+    "codeSubject": "CVN02",
+    "professorId": 3,
+    "type": 1,
+    "groupsId": [
+      24,
+      25,
+      26
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 272,
+    "subject": "Comunicare verbală şi nonverbala",
+    "codeSubject": "CVN02",
+    "professorId": 3,
+    "type": 2,
+    "groupsId": [
+      24
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 273,
+    "subject": "Comunicare verbală şi nonverbala",
+    "codeSubject": "CVN02",
+    "professorId": 3,
+    "type": 2,
+    "groupsId": [
+      25
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 274,
+    "subject": "Comunicare verbală şi nonverbala",
+    "codeSubject": "CVN02",
+    "professorId": 3,
+    "type": 2,
+    "groupsId": [
+      26
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 275,
+    "subject": "Introducere în relaţii publice",
+    "codeSubject": "IRP02",
+    "professorId": 35,
+    "type": 1,
+    "groupsId": [
+      24,
+      25,
+      26,
+      46,
+      47
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 276,
+    "subject": "Introducere în relaţii publice",
+    "codeSubject": "IRP02",
+    "professorId": 35,
+    "type": 2,
+    "groupsId": [
+      24
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 277,
+    "subject": "Introducere în relaţii publice",
+    "codeSubject": "IRP02",
+    "professorId": 35,
+    "type": 2,
+    "groupsId": [
+      25
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 278,
+    "subject": "Introducere în relaţii publice",
+    "codeSubject": "IRP02",
+    "professorId": 35,
+    "type": 2,
+    "groupsId": [
+      26
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 279,
+    "subject": "Metodologia de cercetare în ştiinţele comunicării",
+    "codeSubject": "MC02",
+    "professorId": 13,
+    "type": 2,
+    "groupsId": [
+      24
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 280,
+    "subject": "Metodologia de cercetare în ştiinţele comunicării",
+    "codeSubject": "MC02",
+    "professorId": 13,
+    "type": 2,
+    "groupsId": [
+      25
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 281,
+    "subject": "Metodologia de cercetare în ştiinţele comunicării",
+    "codeSubject": "MC02",
+    "professorId": 13,
+    "type": 2,
+    "groupsId": [
+      26
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 282,
+    "subject": "Metodologia de cercetare în ştiinţele comunicării",
+    "codeSubject": "MC02",
+    "professorId": 14,
+    "type": 1,
+    "groupsId": [
+      24,
+      25,
+      26,
+      46,
+      47
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 283,
+    "subject": "Introducere în științe politice",
+    "codeSubject": "ISP02",
+    "professorId": 36,
+    "type": 1,
+    "groupsId": [
+      24,
+      25,
+      26
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 284,
+    "subject": "Introducere în științe politice",
+    "codeSubject": "ISP02",
+    "professorId": 4,
+    "type": 2,
+    "groupsId": [
+      24
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 285,
+    "subject": "Introducere în științe politice",
+    "codeSubject": "ISP02",
+    "professorId": 4,
+    "type": 2,
+    "groupsId": [
+      25
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 286,
+    "subject": "Introducere în științe politice",
+    "codeSubject": "ISP02",
+    "professorId": 4,
+    "type": 2,
+    "groupsId": [
+      26
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 287,
+    "subject": "Istoria presei",
+    "codeSubject": "IP02",
+    "professorId": 31,
+    "type": 1,
+    "groupsId": [
+      24,
+      25,
+      26
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 288,
+    "subject": "Istoria presei",
+    "codeSubject": "IP02",
+    "professorId": 31,
+    "type": 2,
+    "groupsId": [
+      24
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 289,
+    "subject": "Istoria presei",
+    "codeSubject": "IP02",
+    "professorId": 31,
+    "type": 2,
+    "groupsId": [
+      25
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 290,
+    "subject": "Istoria presei",
+    "codeSubject": "IP02",
+    "professorId": 31,
+    "type": 2,
+    "groupsId": [
+      26
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 291,
+    "subject": "Introducere în sistemul mass media",
+    "codeSubject": "SMM03",
+    "professorId": 36,
+    "type": 1,
+    "groupsId": [
+      30,
+      31
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 292,
+    "subject": "Introducere în sistemul mass media",
+    "codeSubject": "SMM03",
+    "professorId": 36,
+    "type": 2,
+    "groupsId": [
+      30
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 293,
+    "subject": "Introducere în sistemul mass media",
+    "codeSubject": "SMM03",
+    "professorId": 36,
+    "type": 2,
+    "groupsId": [
+      31
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 294,
+    "subject": "Introducere în publicitate",
+    "codeSubject": "PAd03",
+    "professorId": 10,
+    "type": 1,
+    "groupsId": [
+      30,
+      31
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 295,
+    "subject": "Introducere în publicitate",
+    "codeSubject": "PAd03",
+    "professorId": 2,
+    "type": 2,
+    "groupsId": [
+      30
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 296,
+    "subject": "Introducere în publicitate",
+    "codeSubject": "PAd03",
+    "professorId": 2,
+    "type": 2,
+    "groupsId": [
+      31
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 297,
+    "subject": "Tehnici creative în elaborarea produselor de relaţii publice",
+    "codeSubject": "TCr03",
+    "professorId": 5,
+    "type": 1,
+    "groupsId": [
+      30,
+      31,
+      48,
+      49
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 298,
+    "subject": "Tehnici creative în elaborarea produselor de relaţii publice",
+    "codeSubject": "TCr03",
+    "professorId": 1,
+    "type": 2,
+    "groupsId": [
+      30
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 299,
+    "subject": "Tehnici creative în elaborarea produselor de relaţii publice",
+    "codeSubject": "TCr03",
+    "professorId": 1,
+    "type": 2,
+    "groupsId": [
+      31
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 300,
+    "subject": "Comunicare socială",
+    "codeSubject": "CS03",
+    "professorId": 15,
+    "type": 1,
+    "groupsId": [
+      30,
+      31
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 301,
+    "subject": "Comunicare socială",
+    "codeSubject": "CS03",
+    "professorId": 15,
+    "type": 2,
+    "groupsId": [
+      30
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 302,
+    "subject": "Comunicare socială",
+    "codeSubject": "CS03",
+    "professorId": 15,
+    "type": 2,
+    "groupsId": [
+      31
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 303,
+    "subject": "Mijloace de promovare",
+    "codeSubject": "MP04",
+    "professorId": 34,
+    "type": 1,
+    "groupsId": [
+      30,
+      31
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 304,
+    "subject": "Mijloace de promovare",
+    "codeSubject": "MP04",
+    "professorId": 35,
+    "type": 2,
+    "groupsId": [
+      30
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 305,
+    "subject": "Mijloace de promovare",
+    "codeSubject": "MP04",
+    "professorId": 35,
+    "type": 2,
+    "groupsId": [
+      31
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 306,
+    "subject": "Campanii de relații publice",
+    "codeSubject": "CRP04",
+    "professorId": 1,
+    "type": 1,
+    "groupsId": [
+      30,
+      31,
+      48,
+      49
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 307,
+    "subject": "Campanii de relații publice",
+    "codeSubject": "CRP04",
+    "professorId": 1,
+    "type": 2,
+    "groupsId": [
+      30
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 308,
+    "subject": "Campanii de relații publice",
+    "codeSubject": "CRP04",
+    "professorId": 1,
+    "type": 2,
+    "groupsId": [
+      31
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 309,
+    "subject": "Relații publice în domeniul politic",
+    "codeSubject": "CP04",
+    "professorId": 35,
+    "type": 1,
+    "groupsId": [
+      30,
+      31
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 310,
+    "subject": "Relații publice în domeniul politic",
+    "codeSubject": "CP04",
+    "professorId": 35,
+    "type": 2,
+    "groupsId": [
+      30
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 311,
+    "subject": "Relații publice în domeniul politic",
+    "codeSubject": "CP04",
+    "professorId": 35,
+    "type": 2,
+    "groupsId": [
+      31
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 312,
+    "subject": "Comunicare interculturală",
+    "codeSubject": "CI03",
+    "professorId": 31,
+    "type": 1,
+    "groupsId": [
+      30,
+      31
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 313,
+    "subject": "Comunicare interculturală",
+    "codeSubject": "CI03",
+    "professorId": 31,
+    "type": 2,
+    "groupsId": [
+      30
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 314,
+    "subject": "Comunicare interculturală",
+    "codeSubject": "CI03",
+    "professorId": 31,
+    "type": 2,
+    "groupsId": [
+      31
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 315,
+    "subject": "Social media",
+    "codeSubject": "SOM03",
+    "professorId": 35,
+    "type": 1,
+    "groupsId": [
+      30,
+      31
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 316,
+    "subject": "Social media",
+    "codeSubject": "SOM03",
+    "professorId": 35,
+    "type": 2,
+    "groupsId": [
+      30
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 317,
+    "subject": "Social media",
+    "codeSubject": "SOM03",
+    "professorId": 35,
+    "type": 2,
+    "groupsId": [
+      31
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 318,
+    "subject": "Comunicare și leadership în situații de criză",
+    "codeSubject": "CLSC04",
+    "professorId": 3,
+    "type": 1,
+    "groupsId": [
+      30,
+      31
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 319,
+    "subject": "Comunicare și leadership în situații de criză",
+    "codeSubject": "CLSC04",
+    "professorId": 3,
+    "type": 2,
+    "groupsId": [
+      30
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 320,
+    "subject": "Comunicare și leadership în situații de criză",
+    "codeSubject": "CLSC04",
+    "professorId": 3,
+    "type": 2,
+    "groupsId": [
+      31
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 321,
+    "subject": "Producție TV",
+    "codeSubject": "PTV04",
+    "professorId": 37,
+    "type": 1,
+    "groupsId": [
+      30,
+      31
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 322,
+    "subject": "Producție TV",
+    "codeSubject": "PTV04",
+    "professorId": 24,
+    "type": 2,
+    "groupsId": [
+      30
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 323,
+    "subject": "Producție TV",
+    "codeSubject": "PTV04",
+    "professorId": 24,
+    "type": 2,
+    "groupsId": [
+      31
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 324,
+    "subject": "Aplicații ale semioticii în comunicare și PR",
+    "codeSubject": "ASem05",
+    "professorId": 9,
+    "type": 2,
+    "groupsId": [
+      32
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 325,
+    "subject": "Aplicații ale semioticii în comunicare și PR",
+    "codeSubject": "ASem05",
+    "professorId": 9,
+    "type": 2,
+    "groupsId": [
+      33
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 326,
+    "subject": "Aplicații ale semioticii în comunicare și PR",
+    "codeSubject": "ASem05",
+    "professorId": 6,
+    "type": 1,
+    "groupsId": [
+      32,
+      33
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 327,
+    "subject": "Comunicare cu presa",
+    "codeSubject": "CP05",
+    "professorId": 1,
+    "type": 1,
+    "groupsId": [
+      32,
+      33
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 328,
+    "subject": "Comunicare cu presa",
+    "codeSubject": "CP05",
+    "professorId": 33,
+    "type": 2,
+    "groupsId": [
+      32
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 329,
+    "subject": "Comunicare cu presa",
+    "codeSubject": "CP05",
+    "professorId": 33,
+    "type": 2,
+    "groupsId": [
+      33
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 330,
+    "subject": "Analiza datelor sociale",
+    "codeSubject": "AnDat06",
+    "professorId": 36,
+    "type": 1,
+    "groupsId": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 331,
+    "subject": "Analiza datelor sociale",
+    "codeSubject": "AnDat06",
+    "professorId": 8,
+    "type": 3,
+    "groupsId": [
+      32
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 332,
+    "subject": "Analiza datelor sociale",
+    "codeSubject": "AnDat06",
+    "professorId": 8,
+    "type": 3,
+    "groupsId": [
+      33
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 333,
+    "subject": "Analiza datelor sociale",
+    "codeSubject": "AnDat06",
+    "professorId": 8,
+    "type": 3,
+    "groupsId": [
+      34
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 334,
+    "subject": "Analiza datelor sociale",
+    "codeSubject": "AnDat06",
+    "professorId": 8,
+    "type": 3,
+    "groupsId": [
+      35
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 335,
+    "subject": "Introducere în managementul resursei umane",
+    "codeSubject": "IMR05",
+    "professorId": 17,
+    "type": 2,
+    "groupsId": [
+      32
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 336,
+    "subject": "Introducere în managementul resursei umane",
+    "codeSubject": "IMR05",
+    "professorId": 17,
+    "type": 2,
+    "groupsId": [
+      33
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 337,
+    "subject": "Tehnici de negociere",
+    "codeSubject": "TN06",
+    "professorId": 36,
+    "type": 1,
+    "groupsId": [
+      32,
+      33
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 338,
+    "subject": "Tehnici de negociere",
+    "codeSubject": "TN06",
+    "professorId": 36,
+    "type": 2,
+    "groupsId": [
+      32
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 339,
+    "subject": "Tehnici de negociere",
+    "codeSubject": "TN06",
+    "professorId": 36,
+    "type": 2,
+    "groupsId": [
+      33
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 340,
+    "subject": "Job-uri şi cariere cu profesia de relaţionist",
+    "codeSubject": "JC05",
+    "professorId": 5,
+    "type": 1,
+    "groupsId": [
+      32,
+      33
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 341,
+    "subject": "Job-uri şi cariere cu profesia de relaţionist",
+    "codeSubject": "JC05",
+    "professorId": 1,
+    "type": 2,
+    "groupsId": [
+      32
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 342,
+    "subject": "Job-uri şi cariere cu profesia de relaţionist",
+    "codeSubject": "JC05",
+    "professorId": 1,
+    "type": 2,
+    "groupsId": [
+      33
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 343,
+    "subject": "Relaţii publice turistice",
+    "codeSubject": "RPTC05",
+    "professorId": 38,
+    "type": 1,
+    "groupsId": [
+      32,
+      33
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 344,
+    "subject": "Relaţii publice turistice",
+    "codeSubject": "RPTC05",
+    "professorId": 38,
+    "type": 2,
+    "groupsId": [
+      32
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 345,
+    "subject": "Relaţii publice turistice",
+    "codeSubject": "RPTC05",
+    "professorId": 38,
+    "type": 2,
+    "groupsId": [
+      33
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 346,
+    "subject": "Editare imagine TV",
+    "codeSubject": "EIT05",
+    "professorId": 37,
+    "type": 1,
+    "groupsId": [
+      32,
+      33
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 347,
+    "subject": "Editare imagine TV",
+    "codeSubject": "EIT05",
+    "professorId": 24,
+    "type": 2,
+    "groupsId": [
+      32
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 348,
+    "subject": "Editare imagine TV",
+    "codeSubject": "EIT05",
+    "professorId": 24,
+    "type": 2,
+    "groupsId": [
+      33
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 349,
+    "subject": "Creaţie şi producție publicitară",
+    "codeSubject": "CPP06",
+    "professorId": 34,
+    "type": 1,
+    "groupsId": [
+      32,
+      33
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 350,
+    "subject": "Creaţie şi producție publicitară",
+    "codeSubject": "CPP06",
+    "professorId": 34,
+    "type": 2,
+    "groupsId": [
+      32
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 351,
+    "subject": "Creaţie şi producție publicitară",
+    "codeSubject": "CPP06",
+    "professorId": 34,
+    "type": 2,
+    "groupsId": [
+      33
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 352,
+    "subject": "Comunicare  și PR în mediul online",
+    "codeSubject": "CPR06",
+    "professorId": 1,
+    "type": 1,
+    "groupsId": [
+      32,
+      33
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 353,
+    "subject": "Comunicare  și PR în mediul online",
+    "codeSubject": "CPR06",
+    "professorId": 24,
+    "type": 2,
+    "groupsId": [
+      32
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 354,
+    "subject": "Comunicare  și PR în mediul online",
+    "codeSubject": "CPR06",
+    "professorId": 24,
+    "type": 2,
+    "groupsId": [
+      33
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 355,
+    "subject": "Estetică şi comunicare",
+    "codeSubject": "EC06",
+    "professorId": 3,
+    "type": 1,
+    "groupsId": [
+      32,
+      33
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 356,
+    "subject": "Estetică şi comunicare",
+    "codeSubject": "EC06",
+    "professorId": 3,
+    "type": 2,
+    "groupsId": [
+      32
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 357,
+    "subject": "Estetică şi comunicare",
+    "codeSubject": "EC06",
+    "professorId": 3,
+    "type": 2,
+    "groupsId": [
+      33
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 358,
+    "subject": "Informatică aplicată în științele sociale",
+    "codeSubject": "Info01",
+    "professorId": 2,
+    "type": 3,
+    "groupsId": [
+      36
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 359,
+    "subject": "Informatică aplicată în științele sociale",
+    "codeSubject": "Info01",
+    "professorId": 2,
+    "type": 3,
+    "groupsId": [
+      37
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 360,
+    "subject": "Informatică aplicată în științele sociale",
+    "codeSubject": "Info01",
+    "professorId": 2,
+    "type": 3,
+    "groupsId": [
+      38
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 361,
+    "subject": "Informatică aplicată în științele sociale",
+    "codeSubject": "Info01",
+    "professorId": 2,
+    "type": 3,
+    "groupsId": [
+      39
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 362,
+    "subject": "Scriere academică",
+    "codeSubject": "Acc01",
+    "professorId": 4,
+    "type": 2,
+    "groupsId": [
+      36
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 363,
+    "subject": "Scriere academică",
+    "codeSubject": "Acc01",
+    "professorId": 4,
+    "type": 2,
+    "groupsId": [
+      37
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 364,
+    "subject": "Introducere în filosofie",
+    "codeSubject": "IstFil01",
+    "professorId": 4,
+    "type": 2,
+    "groupsId": [
+      36
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 365,
+    "subject": "Introducere în filosofie",
+    "codeSubject": "IstFil01",
+    "professorId": 4,
+    "type": 2,
+    "groupsId": [
+      37
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 366,
+    "subject": "Job-uri și cariere cu profesia de expert în managementul resursei umane",
+    "codeSubject": "Job01",
+    "professorId": 5,
+    "type": 1,
+    "groupsId": [
+      36,
+      37
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 367,
+    "subject": "Job-uri și cariere cu profesia de expert în managementul resursei umane",
+    "codeSubject": "Job01",
+    "professorId": 5,
+    "type": 2,
+    "groupsId": [
+      36
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 368,
+    "subject": "Job-uri și cariere cu profesia de expert în managementul resursei umane",
+    "codeSubject": "Job01",
+    "professorId": 5,
+    "type": 2,
+    "groupsId": [
+      37
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 369,
+    "subject": "Logica",
+    "codeSubject": "LOG01",
+    "professorId": 6,
+    "type": 2,
+    "groupsId": [
+      36
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 370,
+    "subject": "Logica",
+    "codeSubject": "LOG01",
+    "professorId": 6,
+    "type": 2,
+    "groupsId": [
+      37
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 371,
+    "subject": "Planificarea resursei umane",
+    "codeSubject": "PlRu02",
+    "professorId": 17,
+    "type": 1,
+    "groupsId": [
+      36,
+      37
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 372,
+    "subject": "Planificarea resursei umane",
+    "codeSubject": "PlRu02",
+    "professorId": 17,
+    "type": 2,
+    "groupsId": [
+      36
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 373,
+    "subject": "Planificarea resursei umane",
+    "codeSubject": "PlRu02",
+    "professorId": 17,
+    "type": 2,
+    "groupsId": [
+      37
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 374,
+    "subject": "Demografie socială",
+    "codeSubject": "DemSo02",
+    "professorId": 9,
+    "type": 3,
+    "groupsId": [
+      36
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 375,
+    "subject": "Demografie socială",
+    "codeSubject": "DemSo02",
+    "professorId": 9,
+    "type": 3,
+    "groupsId": [
+      37
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 376,
+    "subject": "Epistemologie",
+    "codeSubject": "Epist02",
+    "professorId": 6,
+    "type": 2,
+    "groupsId": [
+      36
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 377,
+    "subject": "Epistemologie",
+    "codeSubject": "Epist02",
+    "professorId": 6,
+    "type": 2,
+    "groupsId": [
+      37
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 378,
+    "subject": "Psihologie socială",
+    "codeSubject": "PsihS02",
+    "professorId": 11,
+    "type": 2,
+    "groupsId": [
+      36
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 379,
+    "subject": "Psihologie socială",
+    "codeSubject": "PsihS02",
+    "professorId": 11,
+    "type": 2,
+    "groupsId": [
+      37
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 380,
+    "subject": "Managementul rețelelor sociale",
+    "codeSubject": "ManRetS02",
+    "professorId": 18,
+    "type": 1,
+    "groupsId": [
+      36,
+      37
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 381,
+    "subject": "Managementul rețelelor sociale",
+    "codeSubject": "ManRetS02",
+    "professorId": 18,
+    "type": 2,
+    "groupsId": [
+      36
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 382,
+    "subject": "Managementul rețelelor sociale",
+    "codeSubject": "ManRetS02",
+    "professorId": 18,
+    "type": 2,
+    "groupsId": [
+      37
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 383,
+    "subject": "Sociologie generală",
+    "codeSubject": "SoGen02",
+    "professorId": 0,
+    "type": 2,
+    "groupsId": [
+      36
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 384,
+    "subject": "Sociologie generală",
+    "codeSubject": "SoGen02",
+    "professorId": 0,
+    "type": 2,
+    "groupsId": [
+      37
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 385,
+    "subject": "Sociologia organizațiilor",
+    "codeSubject": "SoOrg03",
+    "professorId": 17,
+    "type": 2,
+    "groupsId": [
+      40
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 386,
+    "subject": "Sociologia organizațiilor",
+    "codeSubject": "SoOrg03",
+    "professorId": 17,
+    "type": 2,
+    "groupsId": [
+      41
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 387,
+    "subject": "Metode și tehnici de cercetare sociologică I",
+    "codeSubject": "MTCS03",
+    "professorId": 39,
+    "type": 2,
+    "groupsId": [
+      40
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 388,
+    "subject": "Metode și tehnici de cercetare sociologică I",
+    "codeSubject": "MTCS03",
+    "professorId": 39,
+    "type": 2,
+    "groupsId": [
+      41
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 389,
+    "subject": "Introducere în statistică socială",
+    "codeSubject": "Stat03",
+    "professorId": 22,
+    "type": 2,
+    "groupsId": [
+      40
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 390,
+    "subject": "Introducere în statistică socială",
+    "codeSubject": "Stat03",
+    "professorId": 22,
+    "type": 2,
+    "groupsId": [
+      41
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 391,
+    "subject": "Introducere în statistică socială",
+    "codeSubject": "Stat03",
+    "professorId": 22,
+    "type": 2,
+    "groupsId": [
+      42
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 392,
+    "subject": "Introducere în statistică socială",
+    "codeSubject": "Stat03",
+    "professorId": 22,
+    "type": 2,
+    "groupsId": [
+      43
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 393,
+    "subject": "Managementul resursei umane I",
+    "codeSubject": "MRUI03",
+    "professorId": 14,
+    "type": 1,
+    "groupsId": [
+      40,
+      41
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 394,
+    "subject": "Managementul resursei umane I",
+    "codeSubject": "MRUI03",
+    "professorId": 17,
+    "type": 2,
+    "groupsId": [
+      40
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 395,
+    "subject": "Managementul resursei umane I",
+    "codeSubject": "MRUI03",
+    "professorId": 17,
+    "type": 2,
+    "groupsId": [
+      41
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 396,
+    "subject": "Metode şi tehnici de cercetare sociologică II",
+    "codeSubject": "MTCS04",
+    "professorId": 39,
+    "type": 2,
+    "groupsId": [
+      40
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 397,
+    "subject": "Metode şi tehnici de cercetare sociologică II",
+    "codeSubject": "MTCS04",
+    "professorId": 39,
+    "type": 2,
+    "groupsId": [
+      41
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 398,
+    "subject": "Managementul resursei umane II",
+    "codeSubject": "MRUII04",
+    "professorId": 14,
+    "type": 1,
+    "groupsId": [
+      40,
+      41
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 399,
+    "subject": "Managementul resursei umane II",
+    "codeSubject": "MRUII04",
+    "professorId": 17,
+    "type": 2,
+    "groupsId": [
+      40
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 400,
+    "subject": "Managementul resursei umane II",
+    "codeSubject": "MRUII04",
+    "professorId": 17,
+    "type": 2,
+    "groupsId": [
+      41
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 401,
+    "subject": "Paradigme ale sociologiei",
+    "codeSubject": "ParadSo04",
+    "professorId": 0,
+    "type": 2,
+    "groupsId": [
+      40
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 402,
+    "subject": "Paradigme ale sociologiei",
+    "codeSubject": "ParadSo04",
+    "professorId": 0,
+    "type": 2,
+    "groupsId": [
+      41
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 403,
+    "subject": "Comunicare organizațională",
+    "codeSubject": "ComOrg04",
+    "professorId": 17,
+    "type": 1,
+    "groupsId": [
+      40,
+      41
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 404,
+    "subject": "Comunicare organizațională",
+    "codeSubject": "ComOrg04",
+    "professorId": 17,
+    "type": 2,
+    "groupsId": [
+      40
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 405,
+    "subject": "Comunicare organizațională",
+    "codeSubject": "ComOrg04",
+    "professorId": 17,
+    "type": 2,
+    "groupsId": [
+      41
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 406,
+    "subject": "Leadership",
+    "codeSubject": "Lead03",
+    "professorId": 17,
+    "type": 1,
+    "groupsId": [
+      40,
+      41
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 407,
+    "subject": "Leadership",
+    "codeSubject": "Lead03",
+    "professorId": 17,
+    "type": 2,
+    "groupsId": [
+      40
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 408,
+    "subject": "Leadership",
+    "codeSubject": "Lead03",
+    "professorId": 17,
+    "type": 2,
+    "groupsId": [
+      41
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 409,
+    "subject": "Stagii de trening",
+    "codeSubject": "StTraining03",
+    "professorId": 40,
+    "type": 1,
+    "groupsId": [
+      40,
+      41
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 410,
+    "subject": "Stagii de trening",
+    "codeSubject": "StTraining03",
+    "professorId": 40,
+    "type": 2,
+    "groupsId": [
+      40
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 411,
+    "subject": "Stagii de trening",
+    "codeSubject": "StTraining03",
+    "professorId": 40,
+    "type": 2,
+    "groupsId": [
+      41
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 412,
+    "subject": "Tehnici creative și dezvoltarea creativității",
+    "codeSubject": "ThCreat03",
+    "professorId": 1,
+    "type": 2,
+    "groupsId": [
+      40
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 413,
+    "subject": "Tehnici creative și dezvoltarea creativității",
+    "codeSubject": "ThCreat03",
+    "professorId": 1,
+    "type": 2,
+    "groupsId": [
+      41
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 414,
+    "subject": "Metode de cercetare în managementul resursei umane",
+    "codeSubject": "MCMR05",
+    "professorId": 39,
+    "type": 2,
+    "groupsId": [
+      44
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 415,
+    "subject": "Metode de cercetare în managementul resursei umane",
+    "codeSubject": "MCMR05",
+    "professorId": 39,
+    "type": 2,
+    "groupsId": [
+      45
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 416,
+    "subject": "Managementul proiectelor",
+    "codeSubject": "MP05",
+    "professorId": 38,
+    "type": 1,
+    "groupsId": [
+      44,
+      45
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 417,
+    "subject": "Managementul proiectelor",
+    "codeSubject": "MP05",
+    "professorId": 38,
+    "type": 2,
+    "groupsId": [
+      44
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 418,
+    "subject": "Managementul proiectelor",
+    "codeSubject": "MP05",
+    "professorId": 38,
+    "type": 2,
+    "groupsId": [
+      45
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 419,
+    "subject": "Politica ocupării forței de muncă",
+    "codeSubject": "PolF05",
+    "professorId": 14,
+    "type": 1,
+    "groupsId": [
+      44,
+      45
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 420,
+    "subject": "Politica ocupării forței de muncă",
+    "codeSubject": "PolF05",
+    "professorId": 17,
+    "type": 2,
+    "groupsId": [
+      44
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 421,
+    "subject": "Politica ocupării forței de muncă",
+    "codeSubject": "PolF05",
+    "professorId": 17,
+    "type": 2,
+    "groupsId": [
+      45
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 422,
+    "subject": "Psihologia muncii",
+    "codeSubject": "PM05",
+    "professorId": 11,
+    "type": 1,
+    "groupsId": [
+      44,
+      45
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 423,
+    "subject": "Psihologia muncii",
+    "codeSubject": "PM05",
+    "professorId": 11,
+    "type": 2,
+    "groupsId": [
+      44
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 424,
+    "subject": "Psihologia muncii",
+    "codeSubject": "PM05",
+    "professorId": 11,
+    "type": 2,
+    "groupsId": [
+      45
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 425,
+    "subject": "Legislația muncii",
+    "codeSubject": "LM06",
+    "professorId": 7,
+    "type": 1,
+    "groupsId": [
+      44,
+      45
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 426,
+    "subject": "Legislația muncii",
+    "codeSubject": "LM06",
+    "professorId": 7,
+    "type": 2,
+    "groupsId": [
+      44
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 427,
+    "subject": "Legislația muncii",
+    "codeSubject": "LM06",
+    "professorId": 7,
+    "type": 2,
+    "groupsId": [
+      45
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 428,
+    "subject": "Analiză statistică socială multivariată",
+    "codeSubject": "Stat06",
+    "professorId": 8,
+    "type": 3,
+    "groupsId": [
+      44
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 429,
+    "subject": "Analiză statistică socială multivariată",
+    "codeSubject": "Stat06",
+    "professorId": 8,
+    "type": 3,
+    "groupsId": [
+      45
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 430,
+    "subject": "Ergonomie și promovarea sănătății",
+    "codeSubject": "Erg06",
+    "professorId": 8,
+    "type": 1,
+    "groupsId": [
+      44,
+      45
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 431,
+    "subject": "Ergonomie și promovarea sănătății",
+    "codeSubject": "Erg06",
+    "professorId": 8,
+    "type": 2,
+    "groupsId": [
+      44
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 432,
+    "subject": "Ergonomie și promovarea sănătății",
+    "codeSubject": "Erg06",
+    "professorId": 8,
+    "type": 2,
+    "groupsId": [
+      45
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 433,
+    "subject": "Voluntariat si responsabilitate socială",
+    "codeSubject": "Vrs06",
+    "professorId": 26,
+    "type": 1,
+    "groupsId": [
+      44,
+      45
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 434,
+    "subject": "Voluntariat si responsabilitate socială",
+    "codeSubject": "Vrs06",
+    "professorId": 30,
+    "type": 2,
+    "groupsId": [
+      44
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 435,
+    "subject": "Voluntariat si responsabilitate socială",
+    "codeSubject": "Vrs06",
+    "professorId": 30,
+    "type": 2,
+    "groupsId": [
+      45
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 436,
+    "subject": "Managementul organizațiilor neguvernamentale",
+    "codeSubject": "MnONG 05",
+    "professorId": 27,
+    "type": 1,
+    "groupsId": [
+      44,
+      45
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 437,
+    "subject": "Managementul organizațiilor neguvernamentale",
+    "codeSubject": "MnONG 05",
+    "professorId": 27,
+    "type": 2,
+    "groupsId": [
+      44
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 438,
+    "subject": "Managementul organizațiilor neguvernamentale",
+    "codeSubject": "MnONG 05",
+    "professorId": 27,
+    "type": 2,
+    "groupsId": [
+      45
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 439,
+    "subject": "Tehnici de negociere",
+    "codeSubject": "Thneg 05",
+    "professorId": 38,
+    "type": 1,
+    "groupsId": [
+      44,
+      45
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 440,
+    "subject": "Tehnici de negociere",
+    "codeSubject": "Thneg 05",
+    "professorId": 38,
+    "type": 2,
+    "groupsId": [
+      44
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 441,
+    "subject": "Tehnici de negociere",
+    "codeSubject": "Thneg 05",
+    "professorId": 38,
+    "type": 2,
+    "groupsId": [
+      45
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 442,
+    "subject": "Relații publice",
+    "codeSubject": "RelPub06",
+    "professorId": 41,
+    "type": 1,
+    "groupsId": [
+      44,
+      45
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 443,
+    "subject": "Relații publice",
+    "codeSubject": "RelPub06",
+    "professorId": 41,
+    "type": 2,
+    "groupsId": [
+      44
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 444,
+    "subject": "Relații publice",
+    "codeSubject": "RelPub06",
+    "professorId": 41,
+    "type": 2,
+    "groupsId": [
+      45
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 445,
+    "subject": "Sociologia businessului și a activității economice",
+    "codeSubject": "SoBuss06",
+    "professorId": 23,
+    "type": 1,
+    "groupsId": [
+      44,
+      45
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 446,
+    "subject": "Sociologia businessului și a activității economice",
+    "codeSubject": "SoBuss06",
+    "professorId": 23,
+    "type": 2,
+    "groupsId": [
+      44
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 447,
+    "subject": "Sociologia businessului și a activității economice",
+    "codeSubject": "SoBuss06",
+    "professorId": 23,
+    "type": 2,
+    "groupsId": [
+      45
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 448,
+    "subject": "Fundamente ale comunicării",
+    "codeSubject": "FC01",
+    "professorId": 33,
+    "type": 2,
+    "groupsId": [
+      46
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 449,
+    "subject": "Fundamente ale comunicării",
+    "codeSubject": "FC01",
+    "professorId": 33,
+    "type": 2,
+    "groupsId": [
+      47
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 450,
+    "subject": "Marketing",
+    "codeSubject": "MK01",
+    "professorId": 17,
+    "type": 2,
+    "groupsId": [
+      46
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 451,
+    "subject": "Marketing",
+    "codeSubject": "MK01",
+    "professorId": 17,
+    "type": 2,
+    "groupsId": [
+      47
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 452,
+    "subject": "Marketing",
+    "codeSubject": "MK01",
+    "professorId": 34,
+    "type": 1,
+    "groupsId": [
+      46,
+      47
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 453,
+    "subject": "Etică și deontologie profesională",
+    "codeSubject": "ET01",
+    "professorId": 9,
+    "type": 2,
+    "groupsId": [
+      46
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 454,
+    "subject": "Etică și deontologie profesională",
+    "codeSubject": "ET01",
+    "professorId": 9,
+    "type": 2,
+    "groupsId": [
+      47
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 455,
+    "subject": "Etică și deontologie profesională",
+    "codeSubject": "ET01",
+    "professorId": 16,
+    "type": 1,
+    "groupsId": [
+      46,
+      47
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 456,
+    "subject": "Introducere în publicitate",
+    "codeSubject": "IP01",
+    "professorId": 10,
+    "type": 1,
+    "groupsId": [
+      46,
+      47
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 457,
+    "subject": "Introducere în publicitate",
+    "codeSubject": "IP01",
+    "professorId": 2,
+    "type": 2,
+    "groupsId": [
+      46
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 458,
+    "subject": "Introducere în publicitate",
+    "codeSubject": "IP01",
+    "professorId": 2,
+    "type": 2,
+    "groupsId": [
+      47
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 459,
+    "subject": "Scriere academică",
+    "codeSubject": "SA01",
+    "professorId": 12,
+    "type": 2,
+    "groupsId": [
+      46
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 460,
+    "subject": "Scriere academică",
+    "codeSubject": "SA01",
+    "professorId": 12,
+    "type": 2,
+    "groupsId": [
+      47
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 461,
+    "subject": "Introducere în științe politice",
+    "codeSubject": "ISP02",
+    "professorId": 39,
+    "type": 2,
+    "groupsId": [
+      46
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 462,
+    "subject": "Introducere în științe politice",
+    "codeSubject": "ISP02",
+    "professorId": 39,
+    "type": 2,
+    "groupsId": [
+      47
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 463,
+    "subject": "Introducere în științe politice",
+    "codeSubject": "ISP02",
+    "professorId": 36,
+    "type": 1,
+    "groupsId": [
+      46,
+      47
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 464,
+    "subject": "Psihologia utilizatorului de media digitală",
+    "codeSubject": "PMD02",
+    "professorId": 10,
+    "type": 1,
+    "groupsId": [
+      46,
+      47
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 465,
+    "subject": "Psihologia utilizatorului de media digitală",
+    "codeSubject": "PMD02",
+    "professorId": 10,
+    "type": 2,
+    "groupsId": [
+      46
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 466,
+    "subject": "Psihologia utilizatorului de media digitală",
+    "codeSubject": "PMD02",
+    "professorId": 10,
+    "type": 2,
+    "groupsId": [
+      47
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 467,
+    "subject": "Managmentul rețelelor sociale",
+    "codeSubject": "MRS02",
+    "professorId": 18,
+    "type": 2,
+    "groupsId": [
+      46
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 468,
+    "subject": "Managmentul rețelelor sociale",
+    "codeSubject": "MRS02",
+    "professorId": 18,
+    "type": 2,
+    "groupsId": [
+      47
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 469,
+    "subject": "Introducere în relaţii publice",
+    "codeSubject": "IRP02",
+    "professorId": 35,
+    "type": 2,
+    "groupsId": [
+      46
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 470,
+    "subject": "Introducere în relaţii publice",
+    "codeSubject": "IRP02",
+    "professorId": 35,
+    "type": 2,
+    "groupsId": [
+      47
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 471,
+    "subject": "Metodologia de cercetare în ştiinţele comunicării",
+    "codeSubject": "MC02",
+    "professorId": 39,
+    "type": 2,
+    "groupsId": [
+      46
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 472,
+    "subject": "Metodologia de cercetare în ştiinţele comunicării",
+    "codeSubject": "MC02",
+    "professorId": 39,
+    "type": 2,
+    "groupsId": [
+      47
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 473,
+    "subject": "Social Media",
+    "codeSubject": "SM03",
+    "professorId": 35,
+    "type": 2,
+    "groupsId": [
+      48
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 474,
+    "subject": "Social Media",
+    "codeSubject": "SM03",
+    "professorId": 35,
+    "type": 2,
+    "groupsId": [
+      49
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 475,
+    "subject": "Tehnici creative în elaborarea produselor de relaţii publice",
+    "codeSubject": "TCr03",
+    "professorId": 1,
+    "type": 2,
+    "groupsId": [
+      48
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 476,
+    "subject": "Tehnici creative în elaborarea produselor de relaţii publice",
+    "codeSubject": "TCr03",
+    "professorId": 1,
+    "type": 2,
+    "groupsId": [
+      49
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 477,
+    "subject": "Sistemul mass-media",
+    "codeSubject": "SMM03",
+    "professorId": 39,
+    "type": 1,
+    "groupsId": [
+      48,
+      49
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 478,
+    "subject": "Sistemul mass-media",
+    "codeSubject": "SMM03",
+    "professorId": 39,
+    "type": 2,
+    "groupsId": [
+      48
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 479,
+    "subject": "Sistemul mass-media",
+    "codeSubject": "SMM03",
+    "professorId": 39,
+    "type": 2,
+    "groupsId": [
+      49
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 480,
+    "subject": "Branding digital",
+    "codeSubject": "BRD04",
+    "professorId": 34,
+    "type": 1,
+    "groupsId": [
+      48,
+      49
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 481,
+    "subject": "Branding digital",
+    "codeSubject": "BRD04",
+    "professorId": 42,
+    "type": 2,
+    "groupsId": [
+      48
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 482,
+    "subject": "Branding digital",
+    "codeSubject": "BRD04",
+    "professorId": 42,
+    "type": 2,
+    "groupsId": [
+      49
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 483,
+    "subject": "Cercetarea cantitativă în mediul online",
+    "codeSubject": "TCO04",
+    "professorId": 8,
+    "type": 1,
+    "groupsId": [
+      48,
+      49,
+      50,
+      51
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 484,
+    "subject": "Cercetarea cantitativă în mediul online",
+    "codeSubject": "TCO04",
+    "professorId": 13,
+    "type": 3,
+    "groupsId": [
+      48
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 485,
+    "subject": "Cercetarea cantitativă în mediul online",
+    "codeSubject": "TCO04",
+    "professorId": 13,
+    "type": 3,
+    "groupsId": [
+      49
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 486,
+    "subject": "Cercetarea cantitativă în mediul online",
+    "codeSubject": "TCO04",
+    "professorId": 13,
+    "type": 3,
+    "groupsId": [
+      50
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 487,
+    "subject": "Cercetarea cantitativă în mediul online",
+    "codeSubject": "TCO04",
+    "professorId": 13,
+    "type": 3,
+    "groupsId": [
+      51
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 488,
+    "subject": "Editare TV",
+    "codeSubject": "ETV04",
+    "professorId": 24,
+    "type": 3,
+    "groupsId": [
+      48
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 489,
+    "subject": "Editare TV",
+    "codeSubject": "ETV04",
+    "professorId": 24,
+    "type": 3,
+    "groupsId": [
+      49
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 490,
+    "subject": "Editare TV",
+    "codeSubject": "ETV04",
+    "professorId": 24,
+    "type": 3,
+    "groupsId": [
+      50
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 491,
+    "subject": "Editare TV",
+    "codeSubject": "ETV04",
+    "professorId": 24,
+    "type": 3,
+    "groupsId": [
+      51
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 492,
+    "subject": "Editare TV",
+    "codeSubject": "ETV04",
+    "professorId": 43,
+    "type": 1,
+    "groupsId": [
+      48,
+      49,
+      50,
+      51
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 493,
+    "subject": "Optimizare și marketing  în motoarele de căutare (SEO și SEM)",
+    "codeSubject": "SEO03",
+    "professorId": 34,
+    "type": 3,
+    "groupsId": [
+      48
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 494,
+    "subject": "Optimizare și marketing  în motoarele de căutare (SEO și SEM)",
+    "codeSubject": "SEO03",
+    "professorId": 34,
+    "type": 3,
+    "groupsId": [
+      49
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 495,
+    "subject": "Optimizare și marketing  în motoarele de căutare (SEO și SEM)",
+    "codeSubject": "SEO03",
+    "professorId": 44,
+    "type": 1,
+    "groupsId": [
+      48,
+      49
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 496,
+    "subject": "Campanii de relații publice",
+    "codeSubject": "CRP04",
+    "professorId": 1,
+    "type": 2,
+    "groupsId": [
+      48
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 497,
+    "subject": "Campanii de relații publice",
+    "codeSubject": "CRP04",
+    "professorId": 1,
+    "type": 2,
+    "groupsId": [
+      49
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 498,
+    "subject": "Tehnici de analiză și interpretare a imaginilor",
+    "codeSubject": "Teh04",
+    "professorId": 20,
+    "type": 2,
+    "groupsId": [
+      48
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 499,
+    "subject": "Tehnici de analiză și interpretare a imaginilor",
+    "codeSubject": "Teh04",
+    "professorId": 20,
+    "type": 2,
+    "groupsId": [
+      49
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 500,
+    "subject": "Tehnici de analiză și interpretare a imaginilor",
+    "codeSubject": "Teh04",
+    "professorId": 21,
+    "type": 1,
+    "groupsId": [
+      48,
+      49
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 501,
+    "subject": "Comunicare și comportament organizațional",
+    "codeSubject": "CCO05",
+    "professorId": 17,
+    "type": 2,
+    "groupsId": [
+      52
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 502,
+    "subject": "Managementul proiectelor",
+    "codeSubject": "MP05",
+    "professorId": 38,
+    "type": 1,
+    "groupsId": [
+      52
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 503,
+    "subject": "Managementul proiectelor",
+    "codeSubject": "MP05",
+    "professorId": 38,
+    "type": 2,
+    "groupsId": [
+      52
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 504,
+    "subject": "Producție TV",
+    "codeSubject": "PTV05",
+    "professorId": 37,
+    "type": 1,
+    "groupsId": [
+      52,
+      53
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 505,
+    "subject": "Producție TV",
+    "codeSubject": "PTV05",
+    "professorId": 24,
+    "type": 3,
+    "groupsId": [
+      52
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 506,
+    "subject": "Producție TV",
+    "codeSubject": "PTV05",
+    "professorId": 24,
+    "type": 3,
+    "groupsId": [
+      53
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 507,
+    "subject": "Planificare media",
+    "codeSubject": "PM06",
+    "professorId": 43,
+    "type": 1,
+    "groupsId": [
+      52
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 508,
+    "subject": "Planificare media",
+    "codeSubject": "PM06",
+    "professorId": 43,
+    "type": 2,
+    "groupsId": [
+      52
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 509,
+    "subject": "Sisteme digitale de tipărire",
+    "codeSubject": "SDT06",
+    "professorId": 17,
+    "type": 1,
+    "groupsId": [
+      52
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 510,
+    "subject": "Sisteme digitale de tipărire",
+    "codeSubject": "SDT06",
+    "professorId": 17,
+    "type": 2,
+    "groupsId": [
+      52
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 511,
+    "subject": "Tehnici calitative de cercetare online",
+    "codeSubject": "ThCO06",
+    "professorId": 20,
+    "type": 2,
+    "groupsId": [
+      52
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 512,
+    "subject": "Tehnici calitative de cercetare online",
+    "codeSubject": "ThCO06",
+    "professorId": 21,
+    "type": 1,
+    "groupsId": [
+      52
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 513,
+    "subject": "Comunicare în situații de criză",
+    "codeSubject": "CSC05",
+    "professorId": 35,
+    "type": 1,
+    "groupsId": [
+      52
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 514,
+    "subject": "Comunicare în situații de criză",
+    "codeSubject": "CSC05",
+    "professorId": 35,
+    "type": 2,
+    "groupsId": [
+      52
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 515,
+    "subject": "Gen și mass media",
+    "codeSubject": "SG05",
+    "professorId": 10,
+    "type": 1,
+    "groupsId": [
+      52
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 516,
+    "subject": "Gen și mass media",
+    "codeSubject": "SG05",
+    "professorId": 10,
+    "type": 3,
+    "groupsId": [
+      52
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 517,
+    "subject": "Aspecte legale ale productiei media publicate pe Internet",
+    "codeSubject": "ALPMP06",
+    "professorId": 7,
+    "type": 1,
+    "groupsId": [
+      52
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 518,
+    "subject": "Aspecte legale ale productiei media publicate pe Internet",
+    "codeSubject": "ALPMP06",
+    "professorId": 7,
+    "type": 2,
+    "groupsId": [
+      52
+    ],
+    "semester": 1,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 519,
+    "subject": "Comunicare cu presa online",
+    "codeSubject": "CPO06 ",
+    "professorId": 1,
+    "type": 1,
+    "groupsId": [
+      52
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 520,
+    "subject": "Comunicare cu presa online",
+    "codeSubject": "CPO06 ",
+    "professorId": 33,
+    "type": 2,
+    "groupsId": [
+      52
+    ],
+    "semester": 2,
+    "yearOfStudy": 3,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 521,
+    "subject": "Diagnoză organizaţională",
+    "codeSubject": "DO01",
+    "professorId": 0,
+    "type": 1,
+    "groupsId": [
+      54
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 522,
+    "subject": "Diagnoză organizaţională",
+    "codeSubject": "DO01",
+    "professorId": 0,
+    "type": 2,
+    "groupsId": [
+      54
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 523,
+    "subject": "Asigurarea resursei umane (staffing)",
+    "codeSubject": "ARU01",
+    "professorId": 14,
+    "type": 1,
+    "groupsId": [
+      54
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 524,
+    "subject": "Asigurarea resursei umane (staffing)",
+    "codeSubject": "ARU01",
+    "professorId": 17,
+    "type": 4,
+    "groupsId": [
+      54
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 525,
+    "subject": "Team-building",
+    "codeSubject": "TB01",
+    "professorId": 5,
+    "type": 1,
+    "groupsId": [
+      54
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 526,
+    "subject": "Team-building",
+    "codeSubject": "TB01",
+    "professorId": 5,
+    "type": 4,
+    "groupsId": [
+      54
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 527,
+    "subject": "Comunicare organizațíonală",
+    "codeSubject": "CO01",
+    "professorId": 1,
+    "type": 1,
+    "groupsId": [
+      54
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 528,
+    "subject": "Comunicare organizațíonală",
+    "codeSubject": "CO01",
+    "professorId": 1,
+    "type": 4,
+    "groupsId": [
+      54
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 529,
+    "subject": "Training, coaching, mentoring",
+    "codeSubject": "DRU02",
+    "professorId": 45,
+    "type": 1,
+    "groupsId": [
+      54
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 530,
+    "subject": "Training, coaching, mentoring",
+    "codeSubject": "DRU02",
+    "professorId": 45,
+    "type": 4,
+    "groupsId": [
+      54
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 531,
+    "subject": "Tehnici de motivare",
+    "codeSubject": "TM02",
+    "professorId": 17,
+    "type": 4,
+    "groupsId": [
+      54
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 532,
+    "subject": "Tehnici de motivare",
+    "codeSubject": "TM02",
+    "professorId": 14,
+    "type": 1,
+    "groupsId": [
+      54
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 533,
+    "subject": "Project management",
+    "codeSubject": "PM02",
+    "professorId": 17,
+    "type": 1,
+    "groupsId": [
+      54
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 534,
+    "subject": "Project management",
+    "codeSubject": "PM02",
+    "professorId": 17,
+    "type": 4,
+    "groupsId": [
+      54
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 535,
+    "subject": "Comunicare interpersonală și de grup",
+    "codeSubject": "CIG02",
+    "professorId": 10,
+    "type": 1,
+    "groupsId": [
+      54
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 536,
+    "subject": "Comunicare interpersonală și de grup",
+    "codeSubject": "CIG02",
+    "professorId": 10,
+    "type": 4,
+    "groupsId": [
+      54
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 537,
+    "subject": "Evaluarea şi gestiunea performanţei în muncă",
+    "codeSubject": "EGPM03",
+    "professorId": 5,
+    "type": 1,
+    "groupsId": [
+      55
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 538,
+    "subject": "Evaluarea şi gestiunea performanţei în muncă",
+    "codeSubject": "EGPM03",
+    "professorId": 5,
+    "type": 4,
+    "groupsId": [
+      55
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 539,
+    "subject": "Sisteme de salarizare şi administrare a recompenselor şi beneficiilor",
+    "codeSubject": "SSAR03",
+    "professorId": 46,
+    "type": 1,
+    "groupsId": [
+      55
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 540,
+    "subject": "Sisteme de salarizare şi administrare a recompenselor şi beneficiilor",
+    "codeSubject": "SSAR03",
+    "professorId": 46,
+    "type": 2,
+    "groupsId": [
+      55
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 541,
+    "subject": "Legislația muncii",
+    "codeSubject": "AP03",
+    "professorId": 40,
+    "type": 1,
+    "groupsId": [
+      55
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 542,
+    "subject": "Legislația muncii",
+    "codeSubject": "AP03",
+    "professorId": 40,
+    "type": 2,
+    "groupsId": [
+      55
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 543,
+    "subject": "Metodologie calitativă în MRU",
+    "codeSubject": "MCMRU03",
+    "professorId": 21,
+    "type": 1,
+    "groupsId": [
+      55
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 544,
+    "subject": "Metodologie calitativă în MRU",
+    "codeSubject": "MCMRU03",
+    "professorId": 21,
+    "type": 4,
+    "groupsId": [
+      55
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 545,
+    "subject": "Dezvoltarea creativităţii şi utilizarea tehnicilor creative",
+    "codeSubject": "DCU04",
+    "professorId": 5,
+    "type": 1,
+    "groupsId": [
+      55
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 546,
+    "subject": "Dezvoltarea creativităţii şi utilizarea tehnicilor creative",
+    "codeSubject": "DCU04",
+    "professorId": 1,
+    "type": 2,
+    "groupsId": [
+      55
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 547,
+    "subject": "Proiect de cariera",
+    "codeSubject": "CFD04",
+    "professorId": 18,
+    "type": 4,
+    "groupsId": [
+      55
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 4,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 548,
+    "subject": "Responsabilitatea socială a organizațiilor",
+    "codeSubject": "RSO04",
+    "professorId": 18,
+    "type": 1,
+    "groupsId": [
+      55
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 549,
+    "subject": "Responsabilitatea socială a organizațiilor",
+    "codeSubject": "RSO04",
+    "professorId": 18,
+    "type": 2,
+    "groupsId": [
+      55
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 550,
+    "subject": "Analiza imaginii",
+    "codeSubject": "AI01",
+    "professorId": 36,
+    "type": 1,
+    "groupsId": [
+      56
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 551,
+    "subject": "Analiza imaginii",
+    "codeSubject": "AI01",
+    "professorId": 36,
+    "type": 2,
+    "groupsId": [
+      56
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 552,
+    "subject": "Construcţia de marcă",
+    "codeSubject": "CM01",
+    "professorId": 34,
+    "type": 1,
+    "groupsId": [
+      56
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 553,
+    "subject": "Construcţia de marcă",
+    "codeSubject": "CM01",
+    "professorId": 34,
+    "type": 2,
+    "groupsId": [
+      56
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 554,
+    "subject": "Campanii publicitare",
+    "codeSubject": "CP01",
+    "professorId": 10,
+    "type": 1,
+    "groupsId": [
+      56
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 555,
+    "subject": "Campanii publicitare",
+    "codeSubject": "CP01",
+    "professorId": 10,
+    "type": 2,
+    "groupsId": [
+      56
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 556,
+    "subject": "Sfera publică și imaginea politică",
+    "codeSubject": "SPIP01",
+    "professorId": 35,
+    "type": 1,
+    "groupsId": [
+      56
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 557,
+    "subject": "Sfera publică și imaginea politică",
+    "codeSubject": "SPIP01",
+    "professorId": 35,
+    "type": 2,
+    "groupsId": [
+      56
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 558,
+    "subject": "Tehnici promoționale",
+    "codeSubject": "TP02",
+    "professorId": 34,
+    "type": 1,
+    "groupsId": [
+      56
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 559,
+    "subject": "Tehnici promoționale",
+    "codeSubject": "TP02",
+    "professorId": 34,
+    "type": 2,
+    "groupsId": [
+      56
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 560,
+    "subject": "Constructia simbolică a identităţii",
+    "codeSubject": "CSI02",
+    "professorId": 47,
+    "type": 1,
+    "groupsId": [
+      56
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 561,
+    "subject": "Constructia simbolică a identităţii",
+    "codeSubject": "CSI02",
+    "professorId": 47,
+    "type": 2,
+    "groupsId": [
+      56
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 562,
+    "subject": "Psihosociologia reclamei/consumatorului",
+    "codeSubject": "PRC02",
+    "professorId": 10,
+    "type": 1,
+    "groupsId": [
+      56
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 563,
+    "subject": "Psihosociologia reclamei/consumatorului",
+    "codeSubject": "PRC02",
+    "professorId": 10,
+    "type": 4,
+    "groupsId": [
+      56
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 564,
+    "subject": "Evaluarea imaginii",
+    "codeSubject": "EI02",
+    "professorId": 48,
+    "type": 1,
+    "groupsId": [
+      56
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 565,
+    "subject": "Evaluarea imaginii",
+    "codeSubject": "EI02",
+    "professorId": 48,
+    "type": 2,
+    "groupsId": [
+      56
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 566,
+    "subject": "Etica și integritate academică",
+    "codeSubject": "ET02",
+    "professorId": 36,
+    "type": 4,
+    "groupsId": [
+      56
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 567,
+    "subject": "Comportamentul de vot",
+    "codeSubject": "CV03",
+    "professorId": 36,
+    "type": 1,
+    "groupsId": [
+      57
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 568,
+    "subject": "Comportamentul de vot",
+    "codeSubject": "CV03",
+    "professorId": 36,
+    "type": 2,
+    "groupsId": [
+      57
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 569,
+    "subject": "Gestionarea crizelor de imagine",
+    "codeSubject": "GCI03",
+    "professorId": 37,
+    "type": 1,
+    "groupsId": [
+      57
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 570,
+    "subject": "Gestionarea crizelor de imagine",
+    "codeSubject": "GCI03",
+    "professorId": 37,
+    "type": 2,
+    "groupsId": [
+      57
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 571,
+    "subject": "Crearea de cotinut pentru multimedia",
+    "codeSubject": "PEM03",
+    "professorId": 43,
+    "type": 1,
+    "groupsId": [
+      57
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 572,
+    "subject": "Crearea de cotinut pentru multimedia",
+    "codeSubject": "PEM03",
+    "professorId": 43,
+    "type": 2,
+    "groupsId": [
+      57
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 573,
+    "subject": "Branding și identitate corporatistă",
+    "codeSubject": "MR03",
+    "professorId": 35,
+    "type": 1,
+    "groupsId": [
+      57
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 574,
+    "subject": "Branding și identitate corporatistă",
+    "codeSubject": "MR03",
+    "professorId": 35,
+    "type": 2,
+    "groupsId": [
+      57
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 575,
+    "subject": "Tehnica discursului public",
+    "codeSubject": "TNC04",
+    "professorId": 38,
+    "type": 1,
+    "groupsId": [
+      57
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 576,
+    "subject": "Tehnica discursului public",
+    "codeSubject": "TNC04",
+    "professorId": 38,
+    "type": 2,
+    "groupsId": [
+      57
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 577,
+    "subject": "Laborator mass-media",
+    "codeSubject": "LMM04",
+    "professorId": 37,
+    "type": 3,
+    "groupsId": [
+      57
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 578,
+    "subject": "Campanii electorale",
+    "codeSubject": "CE04",
+    "professorId": 36,
+    "type": 1,
+    "groupsId": [
+      57
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 579,
+    "subject": "Campanii electorale",
+    "codeSubject": "CE04",
+    "professorId": 36,
+    "type": 2,
+    "groupsId": [
+      57
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 580,
+    "subject": "Proiect de cercetare",
+    "codeSubject": "Pr04",
+    "professorId": 36,
+    "type": 4,
+    "groupsId": [
+      57
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 4,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 581,
+    "subject": "Teorii ale dreptăţii sociale",
+    "codeSubject": "TDS01",
+    "professorId": 16,
+    "type": 1,
+    "groupsId": [
+      58
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 582,
+    "subject": "Teorii ale dreptăţii sociale",
+    "codeSubject": "TDS01",
+    "professorId": 16,
+    "type": 2,
+    "groupsId": [
+      58
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 583,
+    "subject": "Strategii de intervenţie comunitară pentru grupurile în situaţie de risc",
+    "codeSubject": "SICR01",
+    "professorId": 28,
+    "type": 1,
+    "groupsId": [
+      58
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 584,
+    "subject": "Strategii de intervenţie comunitară pentru grupurile în situaţie de risc",
+    "codeSubject": "SICR01",
+    "professorId": 28,
+    "type": 2,
+    "groupsId": [
+      58
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 585,
+    "subject": "Calitatea vieţii",
+    "codeSubject": "CVC01",
+    "professorId": 13,
+    "type": 1,
+    "groupsId": [
+      58
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 586,
+    "subject": "Calitatea vieţii",
+    "codeSubject": "CVC01",
+    "professorId": 13,
+    "type": 2,
+    "groupsId": [
+      58
+    ],
+    "semester": 1,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 587,
+    "subject": "Programe de dezvoltare interculturală",
+    "codeSubject": "PDS02",
+    "professorId": 31,
+    "type": 1,
+    "groupsId": [
+      58
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 588,
+    "subject": "Programe de dezvoltare interculturală",
+    "codeSubject": "PDS02",
+    "professorId": 31,
+    "type": 2,
+    "groupsId": [
+      58
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 589,
+    "subject": "Strategii de dezvoltare comunitară şi regională",
+    "codeSubject": "SDC02",
+    "professorId": 15,
+    "type": 1,
+    "groupsId": [
+      58
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 590,
+    "subject": "Strategii de dezvoltare comunitară şi regională",
+    "codeSubject": "SDC02",
+    "professorId": 15,
+    "type": 2,
+    "groupsId": [
+      58
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 591,
+    "subject": "Practici urbane comunitare",
+    "codeSubject": "PUC02",
+    "professorId": 6,
+    "type": 1,
+    "groupsId": [
+      58
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 592,
+    "subject": "Practici urbane comunitare",
+    "codeSubject": "PUC02",
+    "professorId": 6,
+    "type": 2,
+    "groupsId": [
+      58
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 593,
+    "subject": "Politici şi programe de dezvoltare rurală",
+    "codeSubject": "SPDR02",
+    "professorId": 23,
+    "type": 1,
+    "groupsId": [
+      58
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 594,
+    "subject": "Politici şi programe de dezvoltare rurală",
+    "codeSubject": "SPDR02",
+    "professorId": 23,
+    "type": 2,
+    "groupsId": [
+      58
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 595,
+    "subject": "Etica și integritate academică",
+    "codeSubject": "ET02",
+    "professorId": 12,
+    "type": 4,
+    "groupsId": [
+      58
+    ],
+    "semester": 2,
+    "yearOfStudy": 1,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 596,
+    "subject": "Marketingul serviciilor comunitare",
+    "codeSubject": "MSC03",
+    "professorId": 27,
+    "type": 1,
+    "groupsId": [
+      59
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 597,
+    "subject": "Marketingul serviciilor comunitare",
+    "codeSubject": "MSC03",
+    "professorId": 27,
+    "type": 2,
+    "groupsId": [
+      59
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 598,
+    "subject": "Strategii comunitare de resocializare",
+    "codeSubject": "SCR03",
+    "professorId": 47,
+    "type": 1,
+    "groupsId": [
+      59
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 599,
+    "subject": "Strategii comunitare de resocializare",
+    "codeSubject": "SCR03",
+    "professorId": 47,
+    "type": 2,
+    "groupsId": [
+      59
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 600,
+    "subject": "Promovarea sănătății în instituții publice și ONG-uri",
+    "codeSubject": "PPPSS03",
+    "professorId": 8,
+    "type": 1,
+    "groupsId": [
+      59
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 601,
+    "subject": "Promovarea sănătății în instituții publice și ONG-uri",
+    "codeSubject": "PPPSS03",
+    "professorId": 8,
+    "type": 2,
+    "groupsId": [
+      59
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 602,
+    "subject": "Politici sociale comparate",
+    "codeSubject": "PSC03",
+    "professorId": 47,
+    "type": 1,
+    "groupsId": [
+      59
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 603,
+    "subject": "Politici sociale comparate",
+    "codeSubject": "PSC03",
+    "professorId": 47,
+    "type": 2,
+    "groupsId": [
+      59
+    ],
+    "semester": 1,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 604,
+    "subject": "Evaluarea programelor de politici publice",
+    "codeSubject": "EEPP04",
+    "professorId": 16,
+    "type": 4,
+    "groupsId": [
+      59
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 4,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 605,
+    "subject": "Proiect de cercetare",
+    "codeSubject": "PR04",
+    "professorId": 8,
+    "type": 4,
+    "groupsId": [
+      59
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 4,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 606,
+    "subject": "Modele și practici de dezvoltare comunitară",
+    "codeSubject": "MPDC04",
+    "professorId": 9,
+    "type": 1,
+    "groupsId": [
+      59
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 2,
+    "weekly": true,
+    "classRoomId": -1
+  },
+  {
+    "idActivity": 607,
+    "subject": "Modele și practici de dezvoltare comunitară",
+    "codeSubject": "MPDC04",
+    "professorId": 9,
+    "type": 2,
+    "groupsId": [
+      59
+    ],
+    "semester": 2,
+    "yearOfStudy": 2,
+    "time": 1,
+    "weekly": false,
+    "classRoomId": -1
+  }
+]

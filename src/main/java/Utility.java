@@ -51,7 +51,7 @@ public class Utility {
         Stage chooserStage=new Stage();
         chooserStage.setTitle("Deschidere fișier stat de funcțiuni");
         FileChooser fileChooser = new FileChooser();
-        fileChooser.setTitle("Open Resource File");
+        fileChooser.setTitle("Open File");
         fileChooser.getExtensionFilters().addAll(
                 new FileChooser.ExtensionFilter("Excel files", "*.xls"));
         File selectedFile = fileChooser.showOpenDialog(chooserStage);
@@ -624,6 +624,7 @@ public class Utility {
                 sheet.addMergedRegion(new CellRangeAddress(rowNumber - 4, rowNumber - 3, 3, 3));
                 sheet.addMergedRegion(new CellRangeAddress(rowNumber - 2, rowNumber - 1, 3, 3));
             }
+            rowNumber++;
         }
 
         for (int column = 0; column < 4; column++) {
@@ -634,6 +635,7 @@ public class Utility {
             FileOutputStream fileOutputStream = new FileOutputStream(file);
             workbook.write(fileOutputStream);
             workbook.close();
+            fileOutputStream.close();
             Utility.message("Exportarea s-a terminat cu succes");
         } catch (Exception exception) {
             Utility.message("Exportarea datelor a eșuat");

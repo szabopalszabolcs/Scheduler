@@ -6,6 +6,7 @@ import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.ComboBox;
 import javafx.scene.layout.GridPane;
+import javafx.scene.layout.HBox;
 import javafx.stage.Stage;
 import javafx.util.Pair;
 import org.controlsfx.control.SearchableComboBox;
@@ -23,23 +24,23 @@ public class MainMenu {
 
     public void createMainMenu() {
 
-        Stage mainStage=new Stage();
+        Stage mainStage = new Stage();
 
-        GridPane mainGrid=new GridPane();
-        mainGrid.setPadding(new Insets(20,20,20,20));
+        GridPane mainGrid = new GridPane();
+        mainGrid.setPadding(new Insets(20, 20, 20, 20));
         mainGrid.setAlignment(Pos.CENTER);
-        mainGrid.setVgap(10);
-        mainGrid.setHgap(10);
+        mainGrid.setVgap(15);
+        mainGrid.setHgap(20);
 
-        Scene mainScene=new Scene(mainGrid);
+        Scene mainScene = new Scene(mainGrid);
 
-        Button readFile=new Button("Citește fișierul stat de funcțiuni");
-        readFile.setPrefSize(300,30);
+        Button readFile = new Button("Citește fișierul stat de funcțiuni");
+        readFile.setPrefSize(300, 30);
 
-        ComboBox<Integer> semesterCombo=new ComboBox<>();
+        ComboBox<Integer> semesterCombo = new ComboBox<>();
         semesterCombo.getItems().add(1);
         semesterCombo.getItems().add(2);
-        semesterCombo.setPrefSize(300,30);
+        semesterCombo.setPrefSize(100, 30);
 
         SearchableComboBox<String> profCombo=new SearchableComboBox<>();
         profCombo.setPrefSize(300,30);
@@ -59,27 +60,33 @@ public class MainMenu {
         Button loadData=new Button("Încărcare date");
         loadData.setPrefSize(300,30);
 
-        Button exit=new Button("Închidere");
-        exit.setPrefSize(300,30);
+        Button exit = new Button("Închidere");
+        exit.setPrefSize(300, 30);
 
-        ComboBox<Integer> yearCombo=new ComboBox<>();
+        ComboBox<Integer> yearCombo = new ComboBox<>();
         yearCombo.getItems().add(1);
-        yearCombo.setPrefSize(300,30);
+        yearCombo.setPrefSize(300, 30);
 
-        Button chooseYear =new Button("Alege anul de studiu");
-        chooseYear.setPrefSize(300,30);
+        Button chooseYear = new Button("Alege anul de studiu");
+        chooseYear.setPrefSize(300, 30);
 
-        Button semestru=new Button("Semestru");
-        semestru.setPrefSize(300,30);
+        HBox semesterChooser = new HBox();
+        semesterChooser.setSpacing(10);
 
-        Button addRoom=new Button("Adăugare sală");
-        addRoom.setPrefSize(300,30);
+        Button semesterText = new Button("Alege semestru");
+        semesterText.setPrefSize(190, 30);
 
-        Button nameGroups=new Button("Redenumire grupe");
-        nameGroups.setPrefSize(300,20);
+        Button verificareOrar = new Button("Verificare orar");
+        verificareOrar.setPrefSize(300, 30);
 
-        Button writeFile=new Button("Exportă orarul");
-        writeFile.setPrefSize(300,20);
+        Button addRoom = new Button("Adăugare sală");
+        addRoom.setPrefSize(300, 30);
+
+        Button nameGroups = new Button("Redenumire grupe");
+        nameGroups.setPrefSize(300, 20);
+
+        Button writeFile = new Button("Exportă orarul");
+        writeFile.setPrefSize(300, 20);
 
         mainScene.setOnKeyTyped(event -> {
             if (event.getCharacter().equals("m")) {
@@ -242,21 +249,22 @@ public class MainMenu {
             System.exit(0);
         });
 
-        mainGrid.add(readFile,1,1);
-        mainGrid.add(writeFile,2,1);
-        mainGrid.add(loadData,1,2);
-        mainGrid.add(saveData,2,2);
-        mainGrid.add(addRoom,1,3);
-        mainGrid.add(nameGroups,2,3);
-        mainGrid.add(semesterCombo,1,4);
-        mainGrid.add(semestru,2,4);
-        mainGrid.add(profCombo,1,5);
-        mainGrid.add(chooseProfesor,2,5);
-        mainGrid.add(yearCombo,1,6);
-        mainGrid.add(chooseYear,2,6);
-        mainGrid.add(groupCombo,1,7);
-        mainGrid.add(chooseGroup,2,7);
-        mainGrid.add(exit,2,8);
+        mainGrid.add(readFile, 1, 1);
+        mainGrid.add(writeFile, 2, 1);
+        mainGrid.add(loadData, 1, 2);
+        mainGrid.add(saveData, 2, 2);
+        mainGrid.add(addRoom, 1, 3);
+        mainGrid.add(nameGroups, 2, 3);
+        mainGrid.add(semesterChooser, 1, 4);
+        semesterChooser.getChildren().addAll(semesterText, semesterCombo);
+        mainGrid.add(verificareOrar, 2, 4);
+        mainGrid.add(profCombo, 1, 5);
+        mainGrid.add(chooseProfesor, 2, 5);
+        mainGrid.add(yearCombo, 1, 6);
+        mainGrid.add(chooseYear, 2, 6);
+        mainGrid.add(groupCombo, 1, 7);
+        mainGrid.add(chooseGroup, 2, 7);
+        mainGrid.add(exit, 2, 8);
 
         mainStage.setScene(mainScene);
         mainStage.setOnCloseRequest(Event::consume);

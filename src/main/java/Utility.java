@@ -5,8 +5,11 @@ import javafx.geometry.Pos;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
+import javafx.scene.control.Tooltip;
 import javafx.scene.layout.VBox;
 import javafx.scene.text.Font;
+import javafx.scene.text.FontPosture;
+import javafx.scene.text.FontWeight;
 import javafx.scene.text.TextAlignment;
 import javafx.stage.FileChooser;
 import javafx.stage.Stage;
@@ -665,16 +668,35 @@ public class Utility {
         lbl.setText(professor.getShortName()+"\n"+currentActivity.getCodeSubject()+","+currentActivity.getTypeChar());
         switch (currentActivity.getType()) {
             case 1:
-                lbl.setStyle("-fx-background-color:LIGHTSALMON;"); break;
+                lbl.setStyle("-fx-background-color:LIGHTSALMON;");
+                break;
             case 2:
-                lbl.setStyle("-fx-background-color:LIGHTBLUE;"); break;
+                lbl.setStyle("-fx-background-color:LIGHTBLUE;");
+                break;
             case 3:
-                lbl.setStyle("-fx-background-color:LIGHTGREEN;"); break;
+                lbl.setStyle("-fx-background-color:LIGHTGREEN;");
+                break;
             case 4:
-                lbl.setStyle("-fx-background-color:LIGHTORANGE;"); break;
+                lbl.setStyle("-fx-background-color:LIGHTORANGE;");
+                break;
             default:
                 lbl.setStyle("-fx-background-color:BLACK;");
         }
+        String tipText = "";
+        tipText += professor.getName() + "\n";
+        tipText += currentActivity.getSubject() + "\n";
+        for (int group : currentActivity.getGroupsId()) {
+            tipText += groups.get(group).getGroupName() + " ";
+        }
+        if (currentActivity.getClassRoomId() == -1) {
+            tipText += "\nSala : -";
+        } else {
+            tipText += "\nSala : " + rooms.get(currentActivity.getClassRoomId()).getRoomName();
+        }
+        Tooltip tooltip = new Tooltip(tipText);
+        tooltip.setFont(Font.font(String.valueOf(FontFamily.SCRIPT), FontWeight.BOLD, FontPosture.REGULAR, 10));
+        tooltip.setTextAlignment(TextAlignment.CENTER);
+        lbl.setTooltip(tooltip);
         return lbl;
     }
 
@@ -702,16 +724,35 @@ public class Utility {
         lbl.setText(groupsNames+"\n"+currentActivity.getCodeSubject()+","+currentActivity.getTypeChar());
         switch (currentActivity.getType()) {
             case 1:
-                lbl.setStyle("-fx-background-color:LIGHTSALMON;"); break;
+                lbl.setStyle("-fx-background-color:LIGHTSALMON;");
+                break;
             case 2:
-                lbl.setStyle("-fx-background-color:LIGHTBLUE;"); break;
+                lbl.setStyle("-fx-background-color:LIGHTBLUE;");
+                break;
             case 3:
-                lbl.setStyle("-fx-background-color:LIGHTGREEN;"); break;
+                lbl.setStyle("-fx-background-color:LIGHTGREEN;");
+                break;
             case 4:
-                lbl.setStyle("-fx-background-color:LIGHTORANGE;"); break;
+                lbl.setStyle("-fx-background-color:LIGHTORANGE;");
+                break;
             default:
                 lbl.setStyle("-fx-background-color:BLACK;");
         }
+        String tipText = "";
+        tipText += professor.getName() + "\n";
+        tipText += currentActivity.getSubject() + "\n";
+        for (int group : currentActivity.getGroupsId()) {
+            tipText += groups.get(group).getGroupName() + " ";
+        }
+        if (currentActivity.getClassRoomId() == -1) {
+            tipText += "\nSala : -";
+        } else {
+            tipText += "\nSala : " + rooms.get(currentActivity.getClassRoomId()).getRoomName();
+        }
+        Tooltip tooltip = new Tooltip(tipText);
+        tooltip.setFont(Font.font(String.valueOf(FontFamily.SCRIPT), FontWeight.BOLD, FontPosture.REGULAR, 10));
+        tooltip.setTextAlignment(TextAlignment.CENTER);
+        lbl.setTooltip(tooltip);
         return lbl;
     }
 
@@ -737,16 +778,35 @@ public class Utility {
         lbl.setText(currentActivity.getCodeSubject()+","+currentActivity.getTypeChar()+","+classRoom+",\n"+professor.getShortName());
         switch (currentActivity.getType()) {
             case 1:
-                lbl.setStyle("-fx-background-color:LIGHTSALMON;"); break;
+                lbl.setStyle("-fx-background-color:LIGHTSALMON;");
+                break;
             case 2:
-                lbl.setStyle("-fx-background-color:LIGHTBLUE;"); break;
+                lbl.setStyle("-fx-background-color:LIGHTBLUE;");
+                break;
             case 3:
-                lbl.setStyle("-fx-background-color:LIGHTGREEN;"); break;
+                lbl.setStyle("-fx-background-color:LIGHTGREEN;");
+                break;
             case 4:
-                lbl.setStyle("-fx-background-color:LIGHTORANGE;"); break;
+                lbl.setStyle("-fx-background-color:LIGHTORANGE;");
+                break;
             default:
                 lbl.setStyle("-fx-background-color:BLACK;");
         }
+        String tipText = "";
+        tipText += professor.getName() + "\n";
+        tipText += currentActivity.getSubject() + "\n";
+        for (int group : currentActivity.getGroupsId()) {
+            tipText += groups.get(group).getGroupName() + " ";
+        }
+        if (currentActivity.getClassRoomId() == -1) {
+            tipText += "\nSala : -";
+        } else {
+            tipText += "\nSala : " + rooms.get(currentActivity.getClassRoomId()).getRoomName();
+        }
+        Tooltip tooltip = new Tooltip(tipText);
+        tooltip.setFont(Font.font(String.valueOf(FontFamily.SCRIPT), FontWeight.BOLD, FontPosture.REGULAR, 10));
+        tooltip.setTextAlignment(TextAlignment.CENTER);
+        lbl.setTooltip(tooltip);
         return lbl;
     }
 

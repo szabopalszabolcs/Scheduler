@@ -185,12 +185,12 @@ public class Scenes {
                 }
             }
             if (event.getButton().equals(MouseButton.SECONDARY)) {
-                changeRoom(ta);
+                changeRoom(ta, (Stage) ta.getScene().getWindow());
             }
         });
     }
 
-    private void changeRoom(IndexedLabel chosenLabel) {
+    private void changeRoom(IndexedLabel chosenLabel, Stage frontStage) {
 
         ArrayList<Room> availableRooms = new ArrayList<>();
         ArrayList<Integer> hours = new ArrayList<>(), days = new ArrayList<>();
@@ -199,6 +199,11 @@ public class Scenes {
         Professor professor = professors.get(professorId);
         int activityId = chosenLabel.getActivityId();
         Activity activity = activities.get(activityId);
+
+        Stage stageToClose = searchForStage("Alegere sală");
+        if (stageToClose != null) {
+            stageToClose.close();
+        }
 
         for (int hour = 0; hour < HOURS; hour++) {
             for (int day = 0; day < DAYS; day++) {
@@ -252,19 +257,43 @@ public class Scenes {
 
         choose.setOnAction(event -> {
             String selectedRoomName = roomCombo.getValue();
+            stage.close();
             int selectedRoomId = -1;
             for (Room room : rooms) {
                 if (room.getRoomName().equals(selectedRoomName)) {
                     selectedRoomId = room.getRoomId();
                 }
             }
+            int oldRoomId = activity.getClassRoomId();
+            if (oldRoomId >= 0) {
+                for (int t = 0; t < hours.size(); t++) {
+                    rooms.get(oldRoomId).setActivityRoom(semester, hours.get(t), days.get(t), -1);
+                }
+            }
+            activity.setClassRoomId(selectedRoomId);
             if (selectedRoomId >= 0) {
-                activity.setClassRoomId(selectedRoomId);
                 for (int t = 0; t < hours.size(); t++) {
                     rooms.get(selectedRoomId).setActivityRoom(semester, hours.get(t), days.get(t), activityId);
                 }
             }
-            stage.close();
+            Stage stageToRefresh = searchForStage("Orar anul " + activity.getYearOfStudy());
+            if (stageToRefresh != null) {
+                stageToRefresh.close();
+                yearScheduleScene(activity.getYearOfStudy(), semester);
+            }
+            for (int group : activity.getGroupsId()) {
+                stageToRefresh = searchForStage(groups.get(group).getGroupName());
+                if (stageToRefresh != null) {
+                    stageToRefresh.close();
+                    groupsScheduleScene(group, semester);
+                }
+            }
+            stageToRefresh = searchForStage(professor.getName());
+            if (stageToRefresh != null) {
+                stageToRefresh.close();
+                professorsScheduleScene(professorId, semester);
+            }
+            frontStage.toFront();
         });
 
         close.setOnAction(event -> stage.close());
@@ -277,6 +306,7 @@ public class Scenes {
         stage.setScene(scene);
         stage.setOnCloseRequest(Event::consume);
         stage.show();
+
 
     }
 
@@ -1841,15 +1871,18 @@ public class Scenes {
                             nodeY = GridPane.getColumnIndex(node);
                             if (nodeX == X && nodeY == Y) {
                                 stackPane = (StackPane) node;
-                                stackPane.getChildren().add(labels[t+i*time]);
+                                stackPane.getChildren().add(labels[t + i * time]);
                             }
                             if (nodeX >= X && nodeY >= Y) {
                                 break;
                             }
                         }
-                        professor.setActivityProfessor(semester, Y % HOURS, Y / HOURS * 2 + X - row+add, activity.getIdActivity());
+                        professor.setActivityProfessor(semester, Y % HOURS, Y / HOURS * 2 + X - row + add, activity.getIdActivity());
                         for (int j = 0; j < activity.getGroupsId().length; j++)
-                            groups.get(activity.getGroupsId()[j]).setActivityGroup(semester, Y % HOURS, Y / HOURS * 2 + X - row+add, activity.getIdActivity());
+                            groups.get(activity.getGroupsId()[j]).setActivityGroup(semester, Y % HOURS, Y / HOURS * 2 + X - row + add, activity.getIdActivity());
+                        if (isRoom) {
+                            room.setActivityRoom(semester, Y % HOURS, Y / HOURS * 2 + X - row + add, activity.getIdActivity());
+                        }
                     }
                 }
                 break;
@@ -1877,12 +1910,17 @@ public class Scenes {
                     }
                 }
                 for (int i=0;i<HOURS;i++)
-                    for (int j=0;j<DAYS;j++){
-                        if (activity.getIdActivity()==professor.getActivityProfessor(semester,i,j))
-                            professor.setActivityProfessor(semester,i,j,-1);
-                        for (int k = 0; k< Objects.requireNonNull(activity).getGroupsId().length; k++)
-                            if (activity.getIdActivity()==groups.get(activity.getGroupsId()[k]).getActivityGroup(semester,i,j))
-                                groups.get(activity.getGroupsId()[k]).setActivityGroup(semester,i,j,-1);
+                    for (int j=0;j<DAYS;j++) {
+                        if (activity.getIdActivity() == professor.getActivityProfessor(semester, i, j))
+                            professor.setActivityProfessor(semester, i, j, -1);
+                        for (int k = 0; k < Objects.requireNonNull(activity).getGroupsId().length; k++)
+                            if (activity.getIdActivity() == groups.get(activity.getGroupsId()[k]).getActivityGroup(semester, i, j))
+                                groups.get(activity.getGroupsId()[k]).setActivityGroup(semester, i, j, -1);
+                        if (isRoom) {
+                            if (activity.getIdActivity() == room.getActivityRoom(semester, i, j)) {
+                                room.setActivityRoom(semester, i, j, -1);
+                            }
+                        }
                     }
 
                 for (int i=0; i<rows.size();i++) {
@@ -1898,7 +1936,7 @@ public class Scenes {
                             nodeY = GridPane.getColumnIndex(node);
                             if (nodeX == X && nodeY == Y) {
                                 stackPane = (StackPane) node;
-                                stackPane.getChildren().add(labels[t+i*time]);
+                                stackPane.getChildren().add(labels[t + i * time]);
                             }
                             if (nodeX >= X && nodeY >= Y) {
                                 break;
@@ -1907,6 +1945,9 @@ public class Scenes {
                         professor.setActivityProfessor(semester, Y % HOURS, Y / HOURS * 2 + X - row, activity.getIdActivity());
                         for (int j = 0; j < activity.getGroupsId().length; j++)
                             groups.get(activity.getGroupsId()[j]).setActivityGroup(semester, Y % HOURS, Y / HOURS * 2 + X - row, activity.getIdActivity());
+                        if (isRoom) {
+                            room.setActivityRoom(semester, Y % HOURS, Y / HOURS * 2 + X - row, activity.getIdActivity());
+                        }
                     }
                 }
                 break;

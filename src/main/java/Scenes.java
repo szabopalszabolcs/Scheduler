@@ -11,6 +11,7 @@ import javafx.scene.control.*;
 import javafx.scene.input.*;
 import javafx.scene.layout.*;
 import javafx.scene.text.Font;
+import javafx.scene.text.TextAlignment;
 import javafx.stage.Screen;
 import javafx.stage.Stage;
 import javafx.util.Duration;
@@ -61,6 +62,11 @@ public class Scenes {
     }
 
     public void addRoom() {
+
+        Stage stageToClose = searchForStage("Adăugare/Ștergere sală");
+        if (stageToClose != null) {
+            stageToClose.close();
+        }
 
         Stage stage = new Stage();
         stage.setTitle("Adăugare/Ștergere sală");
@@ -190,6 +196,111 @@ public class Scenes {
         });
     }
 
+    public void verifySchedule(int semester) {
+
+        ArrayList<Activity> activitiesNoRoom = new ArrayList<>();
+        ArrayList<Activity> activitiesNoSchedule = new ArrayList<>();
+
+        Stage stageToClose = searchForStage("Verificare stare orar");
+        if (stageToClose != null) {
+            stageToClose.close();
+        }
+
+        for (Activity activity : activities) {
+            if (activity.getSemester() == semester) {
+                activitiesNoSchedule.add(activity);
+                if (activity.getClassRoomId() < 0) {
+                    activitiesNoRoom.add(activity);
+                }
+                for (Professor professor : professors) {
+                    if (onScheduleOfProfessor(activity.getIdActivity(), professor.getIdProfessor(), semester)) {
+                        activitiesNoSchedule.remove(activity);
+                        break;
+                    }
+                }
+            }
+        }
+
+        Stage stage = new Stage();
+        stage.setTitle("Verificare stare orar - semestrul " + semester);
+        VBox vBox = new VBox();
+        vBox.setPadding(new Insets(20, 20, 20, 20));
+        vBox.setSpacing(20);
+        Label lblSchedule = new Label();
+        lblSchedule.setTextAlignment(TextAlignment.CENTER);
+
+        if (activitiesNoSchedule.isEmpty()) {
+            lblSchedule.setText("Toate activitățile sunt în orar");
+            lblSchedule.setPrefWidth(300);
+            vBox.getChildren().add(lblSchedule);
+        } else if (activitiesNoSchedule.size() == 1) {
+            lblSchedule.setText("Este o activitate care nu este în orar");
+            lblSchedule.setPrefWidth(300);
+            vBox.getChildren().add(lblSchedule);
+            Activity activity = activitiesNoSchedule.get(0);
+            String activityName = professors.get(activity.getProfessorId()).getName() + " - " + activity.getSubject() + " , " + activity.getTypeChar();
+            Label lblActivity = new Label(activityName);
+            lblActivity.setPrefWidth(300);
+            vBox.getChildren().add(lblActivity);
+        } else {
+            lblSchedule.setText("Sunt " + activitiesNoSchedule.size() + " activități care nu sunt în orar");
+            lblSchedule.setPrefWidth(300);
+            vBox.getChildren().add(lblSchedule);
+            SearchableComboBox<String> boxSchedule = new SearchableComboBox<>();
+            for (Activity activity : activitiesNoSchedule) {
+                boxSchedule.getItems().add(professors.get(activity.getProfessorId()).getName() + " - " + activity.getSubject() + " , " + activity.getTypeChar());
+            }
+            boxSchedule.setPrefWidth(300);
+            Activity activity = activitiesNoSchedule.get(0);
+            boxSchedule.setValue(professors.get(activity.getProfessorId()).getName() + " - " + activity.getSubject() + " , " + activity.getTypeChar());
+            vBox.getChildren().add(boxSchedule);
+        }
+
+        Label lblRoom = new Label();
+        lblRoom.setTextAlignment(TextAlignment.CENTER);
+
+        if (activitiesNoRoom.isEmpty()) {
+            lblRoom.setText("Toate activitățile au sală alocată");
+            lblRoom.setPrefWidth(300);
+            vBox.getChildren().add(lblRoom);
+        } else if (activitiesNoRoom.size() == 1) {
+            lblRoom.setText("Există o activitate care nu are sală alocată");
+            lblRoom.setPrefWidth(300);
+            vBox.getChildren().add(lblRoom);
+            Activity activity = activitiesNoRoom.get(0);
+            String activityName = professors.get(activity.getProfessorId()).getName() + " - " + activity.getSubject() + " , " + activity.getTypeChar();
+            Label lblActivityRoom = new Label(activityName);
+            lblActivityRoom.setPrefWidth(300);
+            vBox.getChildren().add(lblActivityRoom);
+        } else {
+            lblRoom.setText("Sunt " + activitiesNoRoom.size() + " activități care nu au sală alocată");
+            lblRoom.setPrefWidth(300);
+            vBox.getChildren().add(lblRoom);
+            SearchableComboBox<String> boxRoom = new SearchableComboBox<>();
+            for (Activity activity : activitiesNoRoom) {
+                boxRoom.getItems().add(professors.get(activity.getProfessorId()).getName() + " - " + activity.getSubject() + " , " + activity.getTypeChar());
+            }
+            boxRoom.setPrefWidth(300);
+            Activity activity = activitiesNoRoom.get(0);
+            boxRoom.setValue(professors.get(activity.getProfessorId()).getName() + " - " + activity.getSubject() + " , " + activity.getTypeChar());
+            vBox.getChildren().add(boxRoom);
+        }
+
+        Button okButton = new Button("Ok");
+        okButton.setPrefWidth(100);
+        vBox.getChildren().add(okButton);
+        vBox.setAlignment(Pos.CENTER);
+
+        okButton.setOnAction(event -> {
+            stage.close();
+        });
+
+        Scene scene = new Scene(vBox);
+        stage.setScene(scene);
+        stage.show();
+
+    }
+
     private void changeRoom(IndexedLabel chosenLabel, Stage frontStage) {
 
         ArrayList<Room> availableRooms = new ArrayList<>();
@@ -311,6 +422,11 @@ public class Scenes {
     }
 
     public void renameGroup() {
+
+        Stage stageToClose = searchForStage("Denumire grupe");
+        if (stageToClose != null) {
+            stageToClose.close();
+        }
 
         Stage stage = new Stage();
         stage.setTitle("Denumire grupe");

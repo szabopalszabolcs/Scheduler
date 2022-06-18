@@ -206,6 +206,18 @@ public class MainMenu {
             }
         });
 
+        verificareOrar.setOnAction(event -> {
+            if (activities.size() > 0) {
+                if (semesterCombo.getValue() != null) {
+                    scenes.verifySchedule(semesterCombo.getValue());
+                } else {
+                    Utility.message("Selectați vă rog un semestru");
+                }
+            } else {
+                Utility.message("Nu există date");
+            }
+        });
+
         chooseProfesor.setOnAction(event -> {
             try {
                 int indexSelected = profCombo.getSelectionModel().getSelectedIndex();

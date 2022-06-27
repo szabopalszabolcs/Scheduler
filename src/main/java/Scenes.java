@@ -514,15 +514,18 @@ public class Scenes {
         Professor professor = professors.get(professorId);
         Stage scheduleStage = new Stage();
         HBox horizontalBox = new HBox();
+        VBox verticalBox = new VBox();
+        Label label = new Label("Pentru meniu principal apăsați \"esc\"\nPentru schimbare fereastră \"tab\"");
         GridPane classesGrid = new GridPane();
         GridPane scheduleGrid = new GridPane();
-        StackPane[][] scheduleMatrix=new StackPane[HOURS+1][DAYS+1];
+        StackPane[][] scheduleMatrix = new StackPane[HOURS + 1][DAYS + 1];
 
-        String[] ore={"Zi \\ Ora","8-9,50","10-11,50","12-13,50","14-15,50","16-17,50","18-19,50","20-21,50"};
-        String[] zile={"Luni","Marti","Miercuri","Joi","Vineri","Sambata"};
 
-        for (int i=0;i<HOURS+1;i++) {
-            scheduleMatrix[i][0]=new StackPane();
+        String[] ore = {"Zi \\ Ora", "8-9,50", "10-11,50", "12-13,50", "14-15,50", "16-17,50", "18-19,50", "20-21,50"};
+        String[] zile = {"Luni", "Marti", "Miercuri", "Joi", "Vineri", "Sambata"};
+
+        for (int i = 0; i < HOURS + 1; i++) {
+            scheduleMatrix[i][0] = new StackPane();
             scheduleMatrix[i][0].setPrefSize(80,40);
             scheduleMatrix[i][0].setStyle("-fx-border-color:black; -fx-background-color:beige; -fx-padding:5");
             scheduleMatrix[i][0].getChildren().add(new Label((ore[i])));
@@ -594,17 +597,21 @@ public class Scenes {
                 break;
             }
         }
-        if (multiplier==0) multiplier=sqr;
-        for (int i=count;i<sqr*multiplier;i++) {
+        if (multiplier == 0) multiplier = sqr;
+        for (int i = count; i < sqr * multiplier; i++) {
             StackPane pane = new StackPane();
             pane.setPrefWidth(80);
             pane.setMinHeight(40);
             pane.setAlignment(Pos.CENTER);
-            addDropHandlingClasses(pane,professorId);
+            addDropHandlingClasses(pane, professorId);
             classesGrid.add(pane, i % sqr, i / sqr);
         }
 
-        horizontalBox.getChildren().addAll(scheduleGrid, classesGrid);
+        label.setWrapText(true);
+        label.setTextAlignment(TextAlignment.JUSTIFY);
+        verticalBox.setSpacing(20);
+        verticalBox.getChildren().addAll(label, classesGrid);
+        horizontalBox.getChildren().addAll(scheduleGrid, verticalBox);
         horizontalBox.setPadding(new Insets(20, 20, 20, 20));
         horizontalBox.setAlignment(Pos.CENTER);
         horizontalBox.setSpacing(20);
@@ -971,10 +978,12 @@ public class Scenes {
 
         Group group = groups.get(groupId);
         Stage scheduleStage=new Stage();
-        HBox horizontalBox=new HBox();
-        GridPane classesGrid=new GridPane();
-        GridPane scheduleGrid=new GridPane();
-        StackPane[][] scheduleMatrix=new StackPane[HOURS+1][DAYS+1];
+        HBox horizontalBox = new HBox();
+        VBox verticalBox = new VBox();
+        GridPane classesGrid = new GridPane();
+        GridPane scheduleGrid = new GridPane();
+        Label label = new Label("Pentru meniu principal apăsați \"esc\"\nPentru schimbare fereastră \"tab\"");
+        StackPane[][] scheduleMatrix = new StackPane[HOURS + 1][DAYS + 1];
 
         String[] ore={"Zi \\ Ora","8-9,50","10-11,50","12-13,50","14-15,50","16-17,50","18-19,50","20-21,50"};
         String[] zile={"Luni","Marti","Miercuri","Joi","Vineri","Sambata"};
@@ -1053,17 +1062,22 @@ public class Scenes {
                 break;
             }
         }
-        if (multiplier==0) multiplier=sqr;
-        for (int i=count;i<sqr*multiplier;i++) {
+        if (multiplier == 0) multiplier = sqr;
+        for (int i = count; i < sqr * multiplier; i++) {
             StackPane pane = new StackPane();
             pane.setPrefWidth(80);
             pane.setMinHeight(40);
             pane.setAlignment(Pos.CENTER);
-            addDropHandlingClassesGroup(pane,groupId);
+            addDropHandlingClassesGroup(pane, groupId);
             classesGrid.add(pane, i % sqr, i / sqr);
         }
 
-        horizontalBox.getChildren().addAll(scheduleGrid, classesGrid);
+
+        label.setWrapText(true);
+        label.setTextAlignment(TextAlignment.JUSTIFY);
+        verticalBox.setSpacing(20);
+        verticalBox.getChildren().addAll(label, classesGrid);
+        horizontalBox.getChildren().addAll(scheduleGrid, verticalBox);
         horizontalBox.setPadding(new Insets(20, 20, 20, 20));
         horizontalBox.setAlignment(Pos.CENTER);
         horizontalBox.setSpacing(20);
